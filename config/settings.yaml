@@ -1,0 +1,18 @@
+storage:
+  source_base: "dbfs:/FileStore/sap_data"
+  target_base: "dbfs:/FileStore/sap_data_parquet"
+
+ingestion:
+  mode: PERMISSIVE
+  header: "true"
+  inferSchema: "true"
+  output_format: "parquet"
+
+
+datasets:
+  - name: sales_orders
+    formats: [json, csv, tsv]
+  - name: materials
+    formats: [json, csv, tsv]
+  - name: financials
+    formats: [json, csv, tsv]
