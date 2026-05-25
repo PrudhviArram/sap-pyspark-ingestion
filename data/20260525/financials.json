@@ -1,0 +1,8002 @@
+[
+  {
+    "record_id": "FIN05466211",
+    "customer_id": "CUST00020",
+    "amount": 6455.74,
+    "currency": "EUR",
+    "transaction_date": "2026-05-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN38705474",
+    "customer_id": "CUST00053",
+    "amount": 4758.6,
+    "currency": "USD",
+    "transaction_date": "2025-07-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN79192866",
+    "customer_id": "CUST00008",
+    "amount": 4866.34,
+    "currency": "USD",
+    "transaction_date": "2025-09-12",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN61007556",
+    "customer_id": "CUST00073",
+    "amount": 1982.05,
+    "currency": "EUR",
+    "transaction_date": "2025-07-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN40545567",
+    "customer_id": "CUST00016",
+    "amount": 8972.9,
+    "currency": "USD",
+    "transaction_date": "2025-11-29",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN00996559",
+    "customer_id": "CUST00089",
+    "amount": 6587.35,
+    "currency": "USD",
+    "transaction_date": "2025-11-21",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN88376317",
+    "customer_id": "CUST00034",
+    "amount": 1554.98,
+    "currency": "USD",
+    "transaction_date": "2026-03-10",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN44437961",
+    "customer_id": "CUST00027",
+    "amount": 7751.35,
+    "currency": "GBP",
+    "transaction_date": "2026-01-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN96304610",
+    "customer_id": "CUST00074",
+    "amount": 587.78,
+    "currency": "USD",
+    "transaction_date": "2025-08-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN70787644",
+    "customer_id": "CUST00051",
+    "amount": 5478.24,
+    "currency": "AUD",
+    "transaction_date": "2026-04-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN21068966",
+    "customer_id": "CUST00042",
+    "amount": 6218.23,
+    "currency": "INR",
+    "transaction_date": "2026-05-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN95016565",
+    "customer_id": "CUST00050",
+    "amount": 1683.64,
+    "currency": "GBP",
+    "transaction_date": "2026-01-25",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN07126623",
+    "customer_id": "CUST00018",
+    "amount": 3910.3,
+    "currency": "AUD",
+    "transaction_date": "2025-07-05",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN38577004",
+    "customer_id": "CUST00062",
+    "amount": 9562.73,
+    "currency": "INR",
+    "transaction_date": "2025-10-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN01901058",
+    "customer_id": "CUST00057",
+    "amount": 8777.05,
+    "currency": "AUD",
+    "transaction_date": "2026-01-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN75794159",
+    "customer_id": "CUST00086",
+    "amount": 8882.86,
+    "currency": "USD",
+    "transaction_date": "2026-01-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN34097602",
+    "customer_id": "CUST00027",
+    "amount": 743.04,
+    "currency": "GBP",
+    "transaction_date": "2025-06-26",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN52916392",
+    "customer_id": "CUST00032",
+    "amount": 2434.1,
+    "currency": "USD",
+    "transaction_date": "2025-10-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN52781173",
+    "customer_id": "CUST00083",
+    "amount": 9742.3,
+    "currency": "EUR",
+    "transaction_date": "2025-07-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN28599553",
+    "customer_id": "CUST00079",
+    "amount": 7626.05,
+    "currency": "INR",
+    "transaction_date": "2025-08-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN76271432",
+    "customer_id": "CUST00069",
+    "amount": 3363.2,
+    "currency": "AUD",
+    "transaction_date": "2025-11-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN92303477",
+    "customer_id": "CUST00066",
+    "amount": 2085.69,
+    "currency": "EUR",
+    "transaction_date": "2025-07-08",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN40856122",
+    "customer_id": "CUST00086",
+    "amount": 3140.48,
+    "currency": "AUD",
+    "transaction_date": "2026-02-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN65070568",
+    "customer_id": "CUST00030",
+    "amount": 1946.58,
+    "currency": "AUD",
+    "transaction_date": "2025-09-05",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN29365378",
+    "customer_id": "CUST00078",
+    "amount": 7932.71,
+    "currency": "INR",
+    "transaction_date": "2026-03-28",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN15344248",
+    "customer_id": "CUST00062",
+    "amount": 1862.72,
+    "currency": "EUR",
+    "transaction_date": "2025-09-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN94563526",
+    "customer_id": "CUST00075",
+    "amount": 9108.69,
+    "currency": "AUD",
+    "transaction_date": "2025-08-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN84542607",
+    "customer_id": "CUST00047",
+    "amount": 6834.97,
+    "currency": "EUR",
+    "transaction_date": "2026-03-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN95592844",
+    "customer_id": "CUST00045",
+    "amount": 5598.26,
+    "currency": "GBP",
+    "transaction_date": "2026-05-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN32555409",
+    "customer_id": "CUST00077",
+    "amount": 4611.12,
+    "currency": "GBP",
+    "transaction_date": "2026-05-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN63292629",
+    "customer_id": "CUST00084",
+    "amount": 7184.41,
+    "currency": "AUD",
+    "transaction_date": "2025-10-20",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN26175829",
+    "customer_id": "CUST00007",
+    "amount": 2656.06,
+    "currency": "INR",
+    "transaction_date": "2025-12-27",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN61200249",
+    "customer_id": "CUST00097",
+    "amount": 6516.32,
+    "currency": "EUR",
+    "transaction_date": "2026-03-13",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN58087832",
+    "customer_id": "CUST00074",
+    "amount": 6017.59,
+    "currency": "EUR",
+    "transaction_date": "2025-09-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN41309953",
+    "customer_id": "CUST00089",
+    "amount": 8859.76,
+    "currency": "EUR",
+    "transaction_date": "2025-06-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN93020965",
+    "customer_id": "CUST00091",
+    "amount": 3496.13,
+    "currency": "USD",
+    "transaction_date": "2026-02-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN56446382",
+    "customer_id": "CUST00029",
+    "amount": 6425.59,
+    "currency": "INR",
+    "transaction_date": "2025-06-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN07957960",
+    "customer_id": "CUST00014",
+    "amount": 7120.63,
+    "currency": "EUR",
+    "transaction_date": "2026-03-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN64917948",
+    "customer_id": "CUST00045",
+    "amount": 1514.02,
+    "currency": "USD",
+    "transaction_date": "2026-05-24",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN98382127",
+    "customer_id": "CUST00074",
+    "amount": 9307.43,
+    "currency": "GBP",
+    "transaction_date": "2025-07-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN29082653",
+    "customer_id": "CUST00069",
+    "amount": 4684.67,
+    "currency": "GBP",
+    "transaction_date": "2025-12-31",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN78598896",
+    "customer_id": "CUST00030",
+    "amount": 1113.07,
+    "currency": "AUD",
+    "transaction_date": "2025-11-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN31103612",
+    "customer_id": "CUST00011",
+    "amount": 7307.61,
+    "currency": "GBP",
+    "transaction_date": "2025-10-17",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN94373951",
+    "customer_id": "CUST00055",
+    "amount": 2061.94,
+    "currency": "USD",
+    "transaction_date": "2025-09-17",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN77529535",
+    "customer_id": "CUST00070",
+    "amount": 2514.23,
+    "currency": "GBP",
+    "transaction_date": "2025-08-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN21952704",
+    "customer_id": "CUST00080",
+    "amount": 707.73,
+    "currency": "AUD",
+    "transaction_date": "2025-11-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN02699917",
+    "customer_id": "CUST00096",
+    "amount": 5106.5,
+    "currency": "USD",
+    "transaction_date": "2026-02-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN85789111",
+    "customer_id": "CUST00068",
+    "amount": 2947.47,
+    "currency": "AUD",
+    "transaction_date": "2025-11-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN30711976",
+    "customer_id": "CUST00064",
+    "amount": 8598.21,
+    "currency": "INR",
+    "transaction_date": "2026-01-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN34289415",
+    "customer_id": "CUST00074",
+    "amount": 9541.99,
+    "currency": "EUR",
+    "transaction_date": "2025-11-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN10579424",
+    "customer_id": "CUST00072",
+    "amount": 7862.47,
+    "currency": "EUR",
+    "transaction_date": "2025-10-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN52964542",
+    "customer_id": "CUST00085",
+    "amount": 1551.9,
+    "currency": "EUR",
+    "transaction_date": "2026-04-10",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN30070879",
+    "customer_id": "CUST00053",
+    "amount": 3771.91,
+    "currency": "INR",
+    "transaction_date": "2026-01-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN30624201",
+    "customer_id": "CUST00070",
+    "amount": 3972.87,
+    "currency": "USD",
+    "transaction_date": "2025-11-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN61273857",
+    "customer_id": "CUST00081",
+    "amount": 2451.61,
+    "currency": "GBP",
+    "transaction_date": "2026-01-29",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN05852278",
+    "customer_id": "CUST00081",
+    "amount": 4545.77,
+    "currency": "INR",
+    "transaction_date": "2025-06-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN16263427",
+    "customer_id": "CUST00016",
+    "amount": 5312.04,
+    "currency": "EUR",
+    "transaction_date": "2025-10-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN83933976",
+    "customer_id": "CUST00056",
+    "amount": 5997.74,
+    "currency": "INR",
+    "transaction_date": "2026-04-13",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN56698172",
+    "customer_id": "CUST00011",
+    "amount": 4561.11,
+    "currency": "USD",
+    "transaction_date": "2025-11-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN57793975",
+    "customer_id": "CUST00082",
+    "amount": 4008.33,
+    "currency": "EUR",
+    "transaction_date": "2025-11-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN77729047",
+    "customer_id": "CUST00039",
+    "amount": 4354.22,
+    "currency": "EUR",
+    "transaction_date": "2026-03-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN71873528",
+    "customer_id": "CUST00098",
+    "amount": 6926.5,
+    "currency": "INR",
+    "transaction_date": "2026-03-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN16091770",
+    "customer_id": "CUST00045",
+    "amount": 7451.86,
+    "currency": "USD",
+    "transaction_date": "2025-11-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN13956874",
+    "customer_id": "CUST00018",
+    "amount": 6650.58,
+    "currency": "USD",
+    "transaction_date": "2025-10-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN57360895",
+    "customer_id": "CUST00030",
+    "amount": 7413.09,
+    "currency": "AUD",
+    "transaction_date": "2026-02-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN99973748",
+    "customer_id": "CUST00012",
+    "amount": 7426.74,
+    "currency": "INR",
+    "transaction_date": "2025-07-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN58440648",
+    "customer_id": "CUST00088",
+    "amount": 4813.14,
+    "currency": "AUD",
+    "transaction_date": "2025-08-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN59471634",
+    "customer_id": "CUST00013",
+    "amount": 4056.6,
+    "currency": "EUR",
+    "transaction_date": "2026-02-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN09279506",
+    "customer_id": "CUST00047",
+    "amount": 1740.18,
+    "currency": "INR",
+    "transaction_date": "2026-03-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN06726506",
+    "customer_id": "CUST00062",
+    "amount": 6297.09,
+    "currency": "USD",
+    "transaction_date": "2025-08-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN37681793",
+    "customer_id": "CUST00035",
+    "amount": 3432.14,
+    "currency": "AUD",
+    "transaction_date": "2025-08-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN49936873",
+    "customer_id": "CUST00037",
+    "amount": 1834.81,
+    "currency": "EUR",
+    "transaction_date": "2025-05-25",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN98834691",
+    "customer_id": "CUST00016",
+    "amount": 6017.75,
+    "currency": "GBP",
+    "transaction_date": "2025-07-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN80784119",
+    "customer_id": "CUST00025",
+    "amount": 5141.04,
+    "currency": "INR",
+    "transaction_date": "2025-12-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN39861396",
+    "customer_id": "CUST00004",
+    "amount": 5020.5,
+    "currency": "AUD",
+    "transaction_date": "2025-08-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN40517539",
+    "customer_id": "CUST00098",
+    "amount": 8689.97,
+    "currency": "AUD",
+    "transaction_date": "2025-09-15",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN94830162",
+    "customer_id": "CUST00091",
+    "amount": 2426.41,
+    "currency": "GBP",
+    "transaction_date": "2026-03-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN79119764",
+    "customer_id": "CUST00024",
+    "amount": 6367.49,
+    "currency": "AUD",
+    "transaction_date": "2025-12-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN84336379",
+    "customer_id": "CUST00073",
+    "amount": 3131.68,
+    "currency": "EUR",
+    "transaction_date": "2025-11-13",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN40356496",
+    "customer_id": "CUST00035",
+    "amount": 7282.2,
+    "currency": "AUD",
+    "transaction_date": "2025-12-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN21317919",
+    "customer_id": "CUST00061",
+    "amount": 1086.88,
+    "currency": "INR",
+    "transaction_date": "2026-02-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN95755394",
+    "customer_id": "CUST00050",
+    "amount": 6441.81,
+    "currency": "GBP",
+    "transaction_date": "2026-03-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN20819518",
+    "customer_id": "CUST00040",
+    "amount": 4491.0,
+    "currency": "AUD",
+    "transaction_date": "2026-04-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN91599566",
+    "customer_id": "CUST00087",
+    "amount": 2308.9,
+    "currency": "USD",
+    "transaction_date": "2026-02-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN65702651",
+    "customer_id": "CUST00024",
+    "amount": 3032.98,
+    "currency": "USD",
+    "transaction_date": "2026-03-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN93554414",
+    "customer_id": "CUST00091",
+    "amount": 3923.75,
+    "currency": "AUD",
+    "transaction_date": "2025-12-31",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN70301166",
+    "customer_id": "CUST00093",
+    "amount": 4162.26,
+    "currency": "INR",
+    "transaction_date": "2025-12-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN81229660",
+    "customer_id": "CUST00034",
+    "amount": 1898.58,
+    "currency": "EUR",
+    "transaction_date": "2025-08-15",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN01626119",
+    "customer_id": "CUST00007",
+    "amount": 9920.21,
+    "currency": "INR",
+    "transaction_date": "2025-09-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN09180091",
+    "customer_id": "CUST00081",
+    "amount": 7662.34,
+    "currency": "EUR",
+    "transaction_date": "2025-07-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN92092357",
+    "customer_id": "CUST00076",
+    "amount": 1197.18,
+    "currency": "USD",
+    "transaction_date": "2026-03-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN08402902",
+    "customer_id": "CUST00097",
+    "amount": 3980.33,
+    "currency": "GBP",
+    "transaction_date": "2026-03-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN38648228",
+    "customer_id": "CUST00055",
+    "amount": 4485.88,
+    "currency": "AUD",
+    "transaction_date": "2026-03-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN11455205",
+    "customer_id": "CUST00046",
+    "amount": 7486.09,
+    "currency": "GBP",
+    "transaction_date": "2026-04-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN75820585",
+    "customer_id": "CUST00044",
+    "amount": 7029.39,
+    "currency": "AUD",
+    "transaction_date": "2025-11-18",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN47115065",
+    "customer_id": "CUST00030",
+    "amount": 2585.37,
+    "currency": "USD",
+    "transaction_date": "2025-12-25",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN44005850",
+    "customer_id": "CUST00088",
+    "amount": 8500.54,
+    "currency": "AUD",
+    "transaction_date": "2025-11-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN49235890",
+    "customer_id": "CUST00073",
+    "amount": 9983.35,
+    "currency": "INR",
+    "transaction_date": "2026-01-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN34909273",
+    "customer_id": "CUST00080",
+    "amount": 4372.28,
+    "currency": "EUR",
+    "transaction_date": "2025-11-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN47482467",
+    "customer_id": "CUST00098",
+    "amount": 4112.58,
+    "currency": "INR",
+    "transaction_date": "2025-11-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN98420237",
+    "customer_id": "CUST00015",
+    "amount": 5436.68,
+    "currency": "INR",
+    "transaction_date": "2025-09-20",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN97810026",
+    "customer_id": "CUST00017",
+    "amount": 3703.96,
+    "currency": "GBP",
+    "transaction_date": "2026-05-21",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN99459891",
+    "customer_id": "CUST00040",
+    "amount": 932.05,
+    "currency": "INR",
+    "transaction_date": "2026-03-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN52192237",
+    "customer_id": "CUST00044",
+    "amount": 8339.82,
+    "currency": "USD",
+    "transaction_date": "2025-08-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN09285616",
+    "customer_id": "CUST00045",
+    "amount": 995.2,
+    "currency": "AUD",
+    "transaction_date": "2026-03-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN80084927",
+    "customer_id": "CUST00062",
+    "amount": 2534.09,
+    "currency": "EUR",
+    "transaction_date": "2026-02-13",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN44107157",
+    "customer_id": "CUST00029",
+    "amount": 895.86,
+    "currency": "EUR",
+    "transaction_date": "2026-03-15",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN09338743",
+    "customer_id": "CUST00057",
+    "amount": 3656.35,
+    "currency": "EUR",
+    "transaction_date": "2025-08-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN25444461",
+    "customer_id": "CUST00009",
+    "amount": 5671.98,
+    "currency": "AUD",
+    "transaction_date": "2025-09-28",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN05155671",
+    "customer_id": "CUST00038",
+    "amount": 5949.5,
+    "currency": "AUD",
+    "transaction_date": "2026-05-02",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN43487852",
+    "customer_id": "CUST00063",
+    "amount": 2385.19,
+    "currency": "GBP",
+    "transaction_date": "2026-02-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN36710594",
+    "customer_id": "CUST00097",
+    "amount": 6392.09,
+    "currency": "EUR",
+    "transaction_date": "2025-07-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN97914905",
+    "customer_id": "CUST00051",
+    "amount": 5045.55,
+    "currency": "USD",
+    "transaction_date": "2025-11-16",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN81892375",
+    "customer_id": "CUST00025",
+    "amount": 3680.67,
+    "currency": "AUD",
+    "transaction_date": "2025-06-05",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN17673758",
+    "customer_id": "CUST00007",
+    "amount": 9938.9,
+    "currency": "INR",
+    "transaction_date": "2025-10-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34228039",
+    "customer_id": "CUST00056",
+    "amount": 5539.71,
+    "currency": "INR",
+    "transaction_date": "2026-04-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN93918005",
+    "customer_id": "CUST00086",
+    "amount": 7053.44,
+    "currency": "INR",
+    "transaction_date": "2026-02-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN49034307",
+    "customer_id": "CUST00022",
+    "amount": 2185.0,
+    "currency": "INR",
+    "transaction_date": "2025-11-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN27903291",
+    "customer_id": "CUST00053",
+    "amount": 7979.21,
+    "currency": "GBP",
+    "transaction_date": "2026-05-03",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN61165005",
+    "customer_id": "CUST00033",
+    "amount": 9390.82,
+    "currency": "USD",
+    "transaction_date": "2025-12-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN78822490",
+    "customer_id": "CUST00100",
+    "amount": 3979.41,
+    "currency": "USD",
+    "transaction_date": "2025-07-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN72115565",
+    "customer_id": "CUST00035",
+    "amount": 7643.37,
+    "currency": "AUD",
+    "transaction_date": "2026-01-17",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN85487332",
+    "customer_id": "CUST00069",
+    "amount": 4056.5,
+    "currency": "AUD",
+    "transaction_date": "2025-06-26",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN92573271",
+    "customer_id": "CUST00055",
+    "amount": 4260.13,
+    "currency": "EUR",
+    "transaction_date": "2025-09-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN08212430",
+    "customer_id": "CUST00069",
+    "amount": 3459.34,
+    "currency": "GBP",
+    "transaction_date": "2026-04-29",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN89239476",
+    "customer_id": "CUST00030",
+    "amount": 3804.38,
+    "currency": "AUD",
+    "transaction_date": "2025-11-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN95529047",
+    "customer_id": "CUST00079",
+    "amount": 9745.33,
+    "currency": "AUD",
+    "transaction_date": "2026-03-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN33136429",
+    "customer_id": "CUST00096",
+    "amount": 533.22,
+    "currency": "AUD",
+    "transaction_date": "2026-02-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN91798581",
+    "customer_id": "CUST00073",
+    "amount": 4367.78,
+    "currency": "INR",
+    "transaction_date": "2026-04-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN11580750",
+    "customer_id": "CUST00098",
+    "amount": 6760.85,
+    "currency": "INR",
+    "transaction_date": "2026-03-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN80296940",
+    "customer_id": "CUST00060",
+    "amount": 8481.71,
+    "currency": "USD",
+    "transaction_date": "2026-03-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN81631135",
+    "customer_id": "CUST00079",
+    "amount": 5412.91,
+    "currency": "INR",
+    "transaction_date": "2025-11-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN10949272",
+    "customer_id": "CUST00007",
+    "amount": 984.37,
+    "currency": "USD",
+    "transaction_date": "2025-10-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN36019173",
+    "customer_id": "CUST00010",
+    "amount": 7477.61,
+    "currency": "GBP",
+    "transaction_date": "2025-08-29",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN40606161",
+    "customer_id": "CUST00035",
+    "amount": 3924.31,
+    "currency": "INR",
+    "transaction_date": "2025-09-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN25491789",
+    "customer_id": "CUST00014",
+    "amount": 9115.55,
+    "currency": "GBP",
+    "transaction_date": "2026-02-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN33127153",
+    "customer_id": "CUST00042",
+    "amount": 922.87,
+    "currency": "USD",
+    "transaction_date": "2026-02-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN04401486",
+    "customer_id": "CUST00028",
+    "amount": 4278.86,
+    "currency": "INR",
+    "transaction_date": "2026-01-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN47409186",
+    "customer_id": "CUST00078",
+    "amount": 2646.82,
+    "currency": "USD",
+    "transaction_date": "2025-11-15",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN48852603",
+    "customer_id": "CUST00094",
+    "amount": 1539.56,
+    "currency": "USD",
+    "transaction_date": "2025-11-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN13583193",
+    "customer_id": "CUST00056",
+    "amount": 5788.85,
+    "currency": "AUD",
+    "transaction_date": "2025-08-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN54850409",
+    "customer_id": "CUST00069",
+    "amount": 8623.22,
+    "currency": "AUD",
+    "transaction_date": "2025-06-26",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN54870936",
+    "customer_id": "CUST00024",
+    "amount": 2253.97,
+    "currency": "USD",
+    "transaction_date": "2026-01-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN74226907",
+    "customer_id": "CUST00064",
+    "amount": 1573.75,
+    "currency": "GBP",
+    "transaction_date": "2025-08-31",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN50658090",
+    "customer_id": "CUST00064",
+    "amount": 3619.75,
+    "currency": "EUR",
+    "transaction_date": "2026-02-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN76165047",
+    "customer_id": "CUST00066",
+    "amount": 8389.26,
+    "currency": "AUD",
+    "transaction_date": "2025-11-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN38785582",
+    "customer_id": "CUST00067",
+    "amount": 1708.44,
+    "currency": "USD",
+    "transaction_date": "2026-01-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN76854880",
+    "customer_id": "CUST00096",
+    "amount": 2681.93,
+    "currency": "USD",
+    "transaction_date": "2025-06-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN22798474",
+    "customer_id": "CUST00040",
+    "amount": 6320.53,
+    "currency": "USD",
+    "transaction_date": "2026-01-31",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN21267143",
+    "customer_id": "CUST00090",
+    "amount": 5619.18,
+    "currency": "AUD",
+    "transaction_date": "2026-01-12",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN87799040",
+    "customer_id": "CUST00084",
+    "amount": 9823.54,
+    "currency": "USD",
+    "transaction_date": "2025-11-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN17908690",
+    "customer_id": "CUST00016",
+    "amount": 5841.85,
+    "currency": "EUR",
+    "transaction_date": "2025-07-06",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN13968455",
+    "customer_id": "CUST00029",
+    "amount": 137.48,
+    "currency": "AUD",
+    "transaction_date": "2026-04-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN88278010",
+    "customer_id": "CUST00012",
+    "amount": 1544.82,
+    "currency": "GBP",
+    "transaction_date": "2026-05-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN52190118",
+    "customer_id": "CUST00098",
+    "amount": 9979.47,
+    "currency": "EUR",
+    "transaction_date": "2025-11-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN04110517",
+    "customer_id": "CUST00054",
+    "amount": 784.92,
+    "currency": "AUD",
+    "transaction_date": "2026-03-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN64650877",
+    "customer_id": "CUST00096",
+    "amount": 4580.58,
+    "currency": "GBP",
+    "transaction_date": "2025-06-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN51991458",
+    "customer_id": "CUST00032",
+    "amount": 4081.25,
+    "currency": "GBP",
+    "transaction_date": "2025-09-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN09313539",
+    "customer_id": "CUST00054",
+    "amount": 1639.08,
+    "currency": "EUR",
+    "transaction_date": "2026-03-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN80519350",
+    "customer_id": "CUST00016",
+    "amount": 4732.49,
+    "currency": "GBP",
+    "transaction_date": "2025-11-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN00242156",
+    "customer_id": "CUST00005",
+    "amount": 7731.67,
+    "currency": "AUD",
+    "transaction_date": "2025-06-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN16157529",
+    "customer_id": "CUST00049",
+    "amount": 8354.27,
+    "currency": "GBP",
+    "transaction_date": "2026-01-20",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN03787666",
+    "customer_id": "CUST00042",
+    "amount": 9244.21,
+    "currency": "GBP",
+    "transaction_date": "2025-08-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN96915560",
+    "customer_id": "CUST00030",
+    "amount": 9466.43,
+    "currency": "AUD",
+    "transaction_date": "2025-08-04",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN56331994",
+    "customer_id": "CUST00027",
+    "amount": 2846.63,
+    "currency": "GBP",
+    "transaction_date": "2025-11-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN30742246",
+    "customer_id": "CUST00077",
+    "amount": 703.91,
+    "currency": "GBP",
+    "transaction_date": "2025-12-31",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN54821819",
+    "customer_id": "CUST00008",
+    "amount": 2915.85,
+    "currency": "USD",
+    "transaction_date": "2026-01-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN56299577",
+    "customer_id": "CUST00009",
+    "amount": 8710.01,
+    "currency": "GBP",
+    "transaction_date": "2025-10-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN35244344",
+    "customer_id": "CUST00040",
+    "amount": 7279.05,
+    "currency": "USD",
+    "transaction_date": "2026-03-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN10133531",
+    "customer_id": "CUST00067",
+    "amount": 2817.9,
+    "currency": "AUD",
+    "transaction_date": "2026-05-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34922500",
+    "customer_id": "CUST00010",
+    "amount": 9096.62,
+    "currency": "INR",
+    "transaction_date": "2025-07-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN02694309",
+    "customer_id": "CUST00097",
+    "amount": 4048.4,
+    "currency": "GBP",
+    "transaction_date": "2025-06-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN25700671",
+    "customer_id": "CUST00082",
+    "amount": 1721.39,
+    "currency": "USD",
+    "transaction_date": "2026-03-12",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN81265956",
+    "customer_id": "CUST00070",
+    "amount": 3769.61,
+    "currency": "INR",
+    "transaction_date": "2025-07-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34281706",
+    "customer_id": "CUST00036",
+    "amount": 4520.94,
+    "currency": "INR",
+    "transaction_date": "2025-12-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN49617909",
+    "customer_id": "CUST00052",
+    "amount": 5112.82,
+    "currency": "USD",
+    "transaction_date": "2025-11-29",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN36751083",
+    "customer_id": "CUST00060",
+    "amount": 9927.66,
+    "currency": "INR",
+    "transaction_date": "2025-06-06",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN24736465",
+    "customer_id": "CUST00025",
+    "amount": 1875.92,
+    "currency": "EUR",
+    "transaction_date": "2026-01-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN08171624",
+    "customer_id": "CUST00016",
+    "amount": 578.95,
+    "currency": "EUR",
+    "transaction_date": "2026-01-21",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN67432301",
+    "customer_id": "CUST00032",
+    "amount": 4336.22,
+    "currency": "USD",
+    "transaction_date": "2025-12-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN60979020",
+    "customer_id": "CUST00011",
+    "amount": 6027.65,
+    "currency": "USD",
+    "transaction_date": "2025-12-10",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN98274059",
+    "customer_id": "CUST00019",
+    "amount": 292.78,
+    "currency": "EUR",
+    "transaction_date": "2026-05-05",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN95828063",
+    "customer_id": "CUST00081",
+    "amount": 9108.84,
+    "currency": "AUD",
+    "transaction_date": "2026-01-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN29131631",
+    "customer_id": "CUST00061",
+    "amount": 9999.28,
+    "currency": "EUR",
+    "transaction_date": "2025-06-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN57758367",
+    "customer_id": "CUST00088",
+    "amount": 7615.46,
+    "currency": "INR",
+    "transaction_date": "2025-10-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN28278186",
+    "customer_id": "CUST00038",
+    "amount": 7261.12,
+    "currency": "EUR",
+    "transaction_date": "2026-05-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN52542058",
+    "customer_id": "CUST00058",
+    "amount": 7062.32,
+    "currency": "INR",
+    "transaction_date": "2025-06-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN58127035",
+    "customer_id": "CUST00031",
+    "amount": 3145.5,
+    "currency": "USD",
+    "transaction_date": "2026-04-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN54680924",
+    "customer_id": "CUST00086",
+    "amount": 4955.47,
+    "currency": "GBP",
+    "transaction_date": "2026-01-31",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN27197622",
+    "customer_id": "CUST00095",
+    "amount": 1200.06,
+    "currency": "EUR",
+    "transaction_date": "2025-08-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN23210828",
+    "customer_id": "CUST00039",
+    "amount": 459.99,
+    "currency": "AUD",
+    "transaction_date": "2026-02-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN87626831",
+    "customer_id": "CUST00017",
+    "amount": 3436.9,
+    "currency": "GBP",
+    "transaction_date": "2025-07-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN89093051",
+    "customer_id": "CUST00046",
+    "amount": 2241.66,
+    "currency": "GBP",
+    "transaction_date": "2026-01-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN14047718",
+    "customer_id": "CUST00090",
+    "amount": 8697.92,
+    "currency": "GBP",
+    "transaction_date": "2025-05-26",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN28843739",
+    "customer_id": "CUST00050",
+    "amount": 5078.35,
+    "currency": "INR",
+    "transaction_date": "2025-08-18",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN97068284",
+    "customer_id": "CUST00034",
+    "amount": 3386.18,
+    "currency": "AUD",
+    "transaction_date": "2026-02-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN44409353",
+    "customer_id": "CUST00052",
+    "amount": 2230.83,
+    "currency": "GBP",
+    "transaction_date": "2026-04-13",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN09400288",
+    "customer_id": "CUST00024",
+    "amount": 2237.47,
+    "currency": "USD",
+    "transaction_date": "2026-03-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN66724249",
+    "customer_id": "CUST00100",
+    "amount": 8735.23,
+    "currency": "EUR",
+    "transaction_date": "2025-09-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN64649605",
+    "customer_id": "CUST00015",
+    "amount": 528.16,
+    "currency": "USD",
+    "transaction_date": "2026-03-12",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN45633654",
+    "customer_id": "CUST00002",
+    "amount": 4802.51,
+    "currency": "AUD",
+    "transaction_date": "2025-12-31",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN56715860",
+    "customer_id": "CUST00042",
+    "amount": 2706.16,
+    "currency": "AUD",
+    "transaction_date": "2025-08-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN86159383",
+    "customer_id": "CUST00060",
+    "amount": 4802.56,
+    "currency": "EUR",
+    "transaction_date": "2026-02-22",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN06310541",
+    "customer_id": "CUST00028",
+    "amount": 4433.96,
+    "currency": "EUR",
+    "transaction_date": "2025-05-29",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN63756401",
+    "customer_id": "CUST00055",
+    "amount": 5597.74,
+    "currency": "INR",
+    "transaction_date": "2026-03-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN49600193",
+    "customer_id": "CUST00099",
+    "amount": 7823.62,
+    "currency": "GBP",
+    "transaction_date": "2026-04-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN42715047",
+    "customer_id": "CUST00085",
+    "amount": 8113.37,
+    "currency": "GBP",
+    "transaction_date": "2025-07-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN81100223",
+    "customer_id": "CUST00021",
+    "amount": 4730.22,
+    "currency": "EUR",
+    "transaction_date": "2026-03-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN33880877",
+    "customer_id": "CUST00076",
+    "amount": 3108.13,
+    "currency": "AUD",
+    "transaction_date": "2025-10-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN37012162",
+    "customer_id": "CUST00056",
+    "amount": 6463.6,
+    "currency": "INR",
+    "transaction_date": "2025-12-14",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN80324841",
+    "customer_id": "CUST00062",
+    "amount": 3697.67,
+    "currency": "GBP",
+    "transaction_date": "2026-05-06",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN88335129",
+    "customer_id": "CUST00096",
+    "amount": 9821.8,
+    "currency": "GBP",
+    "transaction_date": "2025-09-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN07480012",
+    "customer_id": "CUST00039",
+    "amount": 9865.43,
+    "currency": "INR",
+    "transaction_date": "2025-11-28",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN95219014",
+    "customer_id": "CUST00046",
+    "amount": 8203.19,
+    "currency": "GBP",
+    "transaction_date": "2025-10-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN40462690",
+    "customer_id": "CUST00047",
+    "amount": 6533.31,
+    "currency": "USD",
+    "transaction_date": "2025-09-29",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN96969967",
+    "customer_id": "CUST00040",
+    "amount": 5445.64,
+    "currency": "AUD",
+    "transaction_date": "2025-10-24",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN39598607",
+    "customer_id": "CUST00038",
+    "amount": 7456.2,
+    "currency": "AUD",
+    "transaction_date": "2025-05-31",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN60204245",
+    "customer_id": "CUST00051",
+    "amount": 3231.62,
+    "currency": "INR",
+    "transaction_date": "2026-05-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN03292144",
+    "customer_id": "CUST00028",
+    "amount": 2836.97,
+    "currency": "AUD",
+    "transaction_date": "2025-05-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN05344588",
+    "customer_id": "CUST00042",
+    "amount": 9946.54,
+    "currency": "USD",
+    "transaction_date": "2026-03-28",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN23858608",
+    "customer_id": "CUST00083",
+    "amount": 1082.78,
+    "currency": "EUR",
+    "transaction_date": "2026-01-26",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN17275220",
+    "customer_id": "CUST00028",
+    "amount": 6203.28,
+    "currency": "INR",
+    "transaction_date": "2025-12-12",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN81516787",
+    "customer_id": "CUST00057",
+    "amount": 5454.9,
+    "currency": "EUR",
+    "transaction_date": "2025-06-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN89969828",
+    "customer_id": "CUST00039",
+    "amount": 3168.24,
+    "currency": "INR",
+    "transaction_date": "2025-06-16",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN87355844",
+    "customer_id": "CUST00100",
+    "amount": 6878.3,
+    "currency": "EUR",
+    "transaction_date": "2025-12-21",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN71559873",
+    "customer_id": "CUST00015",
+    "amount": 4507.6,
+    "currency": "AUD",
+    "transaction_date": "2026-02-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN76965851",
+    "customer_id": "CUST00067",
+    "amount": 5692.53,
+    "currency": "USD",
+    "transaction_date": "2025-12-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN45012969",
+    "customer_id": "CUST00063",
+    "amount": 294.3,
+    "currency": "AUD",
+    "transaction_date": "2025-09-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN84670994",
+    "customer_id": "CUST00055",
+    "amount": 1326.88,
+    "currency": "EUR",
+    "transaction_date": "2026-01-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN91763056",
+    "customer_id": "CUST00043",
+    "amount": 8761.76,
+    "currency": "INR",
+    "transaction_date": "2025-08-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN74062223",
+    "customer_id": "CUST00096",
+    "amount": 8550.21,
+    "currency": "INR",
+    "transaction_date": "2025-12-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN40626764",
+    "customer_id": "CUST00030",
+    "amount": 4486.47,
+    "currency": "GBP",
+    "transaction_date": "2025-10-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN27035399",
+    "customer_id": "CUST00078",
+    "amount": 4099.45,
+    "currency": "GBP",
+    "transaction_date": "2026-02-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN92588032",
+    "customer_id": "CUST00052",
+    "amount": 3790.65,
+    "currency": "AUD",
+    "transaction_date": "2025-12-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN02199056",
+    "customer_id": "CUST00004",
+    "amount": 8485.57,
+    "currency": "EUR",
+    "transaction_date": "2025-10-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN88242027",
+    "customer_id": "CUST00047",
+    "amount": 7311.97,
+    "currency": "EUR",
+    "transaction_date": "2025-06-20",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN70920610",
+    "customer_id": "CUST00062",
+    "amount": 2773.41,
+    "currency": "INR",
+    "transaction_date": "2025-09-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN21588669",
+    "customer_id": "CUST00023",
+    "amount": 3378.15,
+    "currency": "EUR",
+    "transaction_date": "2025-08-12",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN74479063",
+    "customer_id": "CUST00012",
+    "amount": 1767.08,
+    "currency": "USD",
+    "transaction_date": "2025-07-24",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN91098596",
+    "customer_id": "CUST00050",
+    "amount": 5847.27,
+    "currency": "USD",
+    "transaction_date": "2025-12-20",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN51879221",
+    "customer_id": "CUST00013",
+    "amount": 3967.23,
+    "currency": "AUD",
+    "transaction_date": "2025-06-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN50624504",
+    "customer_id": "CUST00100",
+    "amount": 3793.79,
+    "currency": "EUR",
+    "transaction_date": "2025-09-20",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN10474860",
+    "customer_id": "CUST00058",
+    "amount": 600.61,
+    "currency": "AUD",
+    "transaction_date": "2026-02-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN45430025",
+    "customer_id": "CUST00051",
+    "amount": 7860.83,
+    "currency": "INR",
+    "transaction_date": "2025-12-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN12103106",
+    "customer_id": "CUST00008",
+    "amount": 5334.95,
+    "currency": "INR",
+    "transaction_date": "2025-12-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN37834752",
+    "customer_id": "CUST00027",
+    "amount": 6417.19,
+    "currency": "AUD",
+    "transaction_date": "2025-11-10",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN81832337",
+    "customer_id": "CUST00017",
+    "amount": 4153.02,
+    "currency": "INR",
+    "transaction_date": "2025-12-31",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN50752615",
+    "customer_id": "CUST00020",
+    "amount": 409.9,
+    "currency": "INR",
+    "transaction_date": "2026-04-13",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN35615677",
+    "customer_id": "CUST00098",
+    "amount": 8334.74,
+    "currency": "AUD",
+    "transaction_date": "2026-01-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN31612287",
+    "customer_id": "CUST00073",
+    "amount": 6957.47,
+    "currency": "INR",
+    "transaction_date": "2025-12-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN30008377",
+    "customer_id": "CUST00042",
+    "amount": 6446.68,
+    "currency": "AUD",
+    "transaction_date": "2025-07-17",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN49646516",
+    "customer_id": "CUST00079",
+    "amount": 1220.43,
+    "currency": "AUD",
+    "transaction_date": "2025-12-13",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN80391050",
+    "customer_id": "CUST00024",
+    "amount": 7139.4,
+    "currency": "AUD",
+    "transaction_date": "2026-05-22",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN90350830",
+    "customer_id": "CUST00061",
+    "amount": 7728.47,
+    "currency": "EUR",
+    "transaction_date": "2025-11-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN96974968",
+    "customer_id": "CUST00100",
+    "amount": 8254.83,
+    "currency": "AUD",
+    "transaction_date": "2025-06-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN19963934",
+    "customer_id": "CUST00072",
+    "amount": 7186.4,
+    "currency": "AUD",
+    "transaction_date": "2025-09-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN63869995",
+    "customer_id": "CUST00042",
+    "amount": 2322.08,
+    "currency": "AUD",
+    "transaction_date": "2026-05-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN50885654",
+    "customer_id": "CUST00066",
+    "amount": 717.92,
+    "currency": "EUR",
+    "transaction_date": "2025-09-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN07205634",
+    "customer_id": "CUST00001",
+    "amount": 8866.66,
+    "currency": "GBP",
+    "transaction_date": "2026-01-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN77286387",
+    "customer_id": "CUST00057",
+    "amount": 9989.3,
+    "currency": "AUD",
+    "transaction_date": "2026-01-08",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN78664977",
+    "customer_id": "CUST00084",
+    "amount": 4005.62,
+    "currency": "AUD",
+    "transaction_date": "2026-05-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN14500189",
+    "customer_id": "CUST00063",
+    "amount": 838.01,
+    "currency": "GBP",
+    "transaction_date": "2025-06-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN09416449",
+    "customer_id": "CUST00082",
+    "amount": 824.24,
+    "currency": "INR",
+    "transaction_date": "2025-10-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN29355967",
+    "customer_id": "CUST00073",
+    "amount": 9513.83,
+    "currency": "GBP",
+    "transaction_date": "2026-01-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN91457845",
+    "customer_id": "CUST00022",
+    "amount": 2537.53,
+    "currency": "EUR",
+    "transaction_date": "2025-09-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN42856468",
+    "customer_id": "CUST00098",
+    "amount": 9740.41,
+    "currency": "INR",
+    "transaction_date": "2025-05-26",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN31982212",
+    "customer_id": "CUST00044",
+    "amount": 6656.79,
+    "currency": "INR",
+    "transaction_date": "2025-09-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN96475886",
+    "customer_id": "CUST00098",
+    "amount": 854.12,
+    "currency": "AUD",
+    "transaction_date": "2026-04-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN29699192",
+    "customer_id": "CUST00089",
+    "amount": 5704.97,
+    "currency": "EUR",
+    "transaction_date": "2025-12-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN38786492",
+    "customer_id": "CUST00086",
+    "amount": 6117.48,
+    "currency": "USD",
+    "transaction_date": "2026-04-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN04832437",
+    "customer_id": "CUST00078",
+    "amount": 7456.14,
+    "currency": "USD",
+    "transaction_date": "2025-11-24",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN87093546",
+    "customer_id": "CUST00067",
+    "amount": 4922.85,
+    "currency": "INR",
+    "transaction_date": "2025-12-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN68269501",
+    "customer_id": "CUST00047",
+    "amount": 8008.36,
+    "currency": "USD",
+    "transaction_date": "2025-06-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN01568368",
+    "customer_id": "CUST00044",
+    "amount": 2076.45,
+    "currency": "AUD",
+    "transaction_date": "2025-12-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN26382070",
+    "customer_id": "CUST00054",
+    "amount": 9726.41,
+    "currency": "INR",
+    "transaction_date": "2026-01-21",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN44068862",
+    "customer_id": "CUST00041",
+    "amount": 3947.24,
+    "currency": "INR",
+    "transaction_date": "2025-08-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN93209589",
+    "customer_id": "CUST00047",
+    "amount": 2838.03,
+    "currency": "AUD",
+    "transaction_date": "2025-11-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN64211774",
+    "customer_id": "CUST00023",
+    "amount": 9058.0,
+    "currency": "EUR",
+    "transaction_date": "2025-09-28",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN36765983",
+    "customer_id": "CUST00093",
+    "amount": 909.65,
+    "currency": "USD",
+    "transaction_date": "2025-08-02",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN87395745",
+    "customer_id": "CUST00028",
+    "amount": 9449.45,
+    "currency": "AUD",
+    "transaction_date": "2025-10-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN53664933",
+    "customer_id": "CUST00063",
+    "amount": 1872.4,
+    "currency": "EUR",
+    "transaction_date": "2026-02-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN90352592",
+    "customer_id": "CUST00022",
+    "amount": 4179.32,
+    "currency": "INR",
+    "transaction_date": "2025-09-29",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN79830473",
+    "customer_id": "CUST00092",
+    "amount": 1023.91,
+    "currency": "GBP",
+    "transaction_date": "2026-02-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN79967409",
+    "customer_id": "CUST00066",
+    "amount": 8997.21,
+    "currency": "GBP",
+    "transaction_date": "2025-08-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN54372161",
+    "customer_id": "CUST00043",
+    "amount": 8587.61,
+    "currency": "USD",
+    "transaction_date": "2026-05-10",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN42743785",
+    "customer_id": "CUST00022",
+    "amount": 9335.1,
+    "currency": "INR",
+    "transaction_date": "2025-08-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN40534610",
+    "customer_id": "CUST00028",
+    "amount": 7147.79,
+    "currency": "AUD",
+    "transaction_date": "2025-06-04",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN62442545",
+    "customer_id": "CUST00069",
+    "amount": 5556.53,
+    "currency": "EUR",
+    "transaction_date": "2025-06-03",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN61573180",
+    "customer_id": "CUST00061",
+    "amount": 5446.7,
+    "currency": "EUR",
+    "transaction_date": "2026-05-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN99045918",
+    "customer_id": "CUST00091",
+    "amount": 3261.28,
+    "currency": "AUD",
+    "transaction_date": "2026-02-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN58788240",
+    "customer_id": "CUST00009",
+    "amount": 3724.83,
+    "currency": "AUD",
+    "transaction_date": "2025-12-22",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN63281180",
+    "customer_id": "CUST00074",
+    "amount": 2293.69,
+    "currency": "AUD",
+    "transaction_date": "2025-12-05",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN92662937",
+    "customer_id": "CUST00042",
+    "amount": 6642.87,
+    "currency": "EUR",
+    "transaction_date": "2026-01-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN65338171",
+    "customer_id": "CUST00067",
+    "amount": 2463.83,
+    "currency": "USD",
+    "transaction_date": "2025-12-22",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN99179593",
+    "customer_id": "CUST00022",
+    "amount": 2821.33,
+    "currency": "INR",
+    "transaction_date": "2025-10-03",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN59671931",
+    "customer_id": "CUST00039",
+    "amount": 3161.42,
+    "currency": "AUD",
+    "transaction_date": "2025-10-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN97293749",
+    "customer_id": "CUST00100",
+    "amount": 9983.22,
+    "currency": "USD",
+    "transaction_date": "2026-01-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN88433553",
+    "customer_id": "CUST00040",
+    "amount": 1253.89,
+    "currency": "EUR",
+    "transaction_date": "2025-09-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN83571531",
+    "customer_id": "CUST00098",
+    "amount": 1706.13,
+    "currency": "GBP",
+    "transaction_date": "2026-03-08",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN43711518",
+    "customer_id": "CUST00053",
+    "amount": 8775.76,
+    "currency": "AUD",
+    "transaction_date": "2026-04-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN68163287",
+    "customer_id": "CUST00051",
+    "amount": 2655.1,
+    "currency": "USD",
+    "transaction_date": "2025-07-26",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN46532107",
+    "customer_id": "CUST00088",
+    "amount": 3390.13,
+    "currency": "GBP",
+    "transaction_date": "2026-04-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN75872003",
+    "customer_id": "CUST00085",
+    "amount": 3278.44,
+    "currency": "EUR",
+    "transaction_date": "2025-07-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN53886114",
+    "customer_id": "CUST00099",
+    "amount": 8016.46,
+    "currency": "GBP",
+    "transaction_date": "2025-09-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN17162906",
+    "customer_id": "CUST00022",
+    "amount": 4702.71,
+    "currency": "GBP",
+    "transaction_date": "2026-05-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN03501204",
+    "customer_id": "CUST00003",
+    "amount": 1502.69,
+    "currency": "GBP",
+    "transaction_date": "2025-08-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN48631130",
+    "customer_id": "CUST00083",
+    "amount": 5360.5,
+    "currency": "INR",
+    "transaction_date": "2026-05-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN80099622",
+    "customer_id": "CUST00068",
+    "amount": 7155.76,
+    "currency": "EUR",
+    "transaction_date": "2025-10-05",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN80134308",
+    "customer_id": "CUST00040",
+    "amount": 6730.56,
+    "currency": "USD",
+    "transaction_date": "2026-02-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN37109622",
+    "customer_id": "CUST00084",
+    "amount": 9133.57,
+    "currency": "AUD",
+    "transaction_date": "2025-05-31",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN16304707",
+    "customer_id": "CUST00090",
+    "amount": 4554.54,
+    "currency": "EUR",
+    "transaction_date": "2026-01-05",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN89123390",
+    "customer_id": "CUST00096",
+    "amount": 7896.0,
+    "currency": "INR",
+    "transaction_date": "2026-03-13",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN43130869",
+    "customer_id": "CUST00001",
+    "amount": 2788.88,
+    "currency": "EUR",
+    "transaction_date": "2026-03-22",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN39118863",
+    "customer_id": "CUST00001",
+    "amount": 3744.45,
+    "currency": "EUR",
+    "transaction_date": "2025-08-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN29355931",
+    "customer_id": "CUST00087",
+    "amount": 8192.12,
+    "currency": "USD",
+    "transaction_date": "2025-10-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN99368358",
+    "customer_id": "CUST00069",
+    "amount": 8708.32,
+    "currency": "INR",
+    "transaction_date": "2025-06-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN61769507",
+    "customer_id": "CUST00063",
+    "amount": 5254.35,
+    "currency": "EUR",
+    "transaction_date": "2025-11-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN80044247",
+    "customer_id": "CUST00038",
+    "amount": 9831.15,
+    "currency": "EUR",
+    "transaction_date": "2025-12-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN51564688",
+    "customer_id": "CUST00027",
+    "amount": 7579.4,
+    "currency": "AUD",
+    "transaction_date": "2026-04-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN46126923",
+    "customer_id": "CUST00008",
+    "amount": 6800.33,
+    "currency": "GBP",
+    "transaction_date": "2025-10-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN67458100",
+    "customer_id": "CUST00005",
+    "amount": 9551.04,
+    "currency": "USD",
+    "transaction_date": "2025-07-19",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN74943887",
+    "customer_id": "CUST00067",
+    "amount": 9788.61,
+    "currency": "EUR",
+    "transaction_date": "2025-12-19",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN12540561",
+    "customer_id": "CUST00079",
+    "amount": 2556.41,
+    "currency": "GBP",
+    "transaction_date": "2025-08-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN42707509",
+    "customer_id": "CUST00060",
+    "amount": 7031.85,
+    "currency": "GBP",
+    "transaction_date": "2025-06-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN46635709",
+    "customer_id": "CUST00042",
+    "amount": 9243.59,
+    "currency": "INR",
+    "transaction_date": "2025-09-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN02316120",
+    "customer_id": "CUST00075",
+    "amount": 1064.25,
+    "currency": "GBP",
+    "transaction_date": "2025-12-31",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN39283640",
+    "customer_id": "CUST00052",
+    "amount": 262.31,
+    "currency": "GBP",
+    "transaction_date": "2025-06-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN33748997",
+    "customer_id": "CUST00033",
+    "amount": 7215.96,
+    "currency": "AUD",
+    "transaction_date": "2026-05-19",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN35567034",
+    "customer_id": "CUST00008",
+    "amount": 1718.86,
+    "currency": "EUR",
+    "transaction_date": "2026-03-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN88311671",
+    "customer_id": "CUST00028",
+    "amount": 6875.45,
+    "currency": "AUD",
+    "transaction_date": "2025-07-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN10659544",
+    "customer_id": "CUST00017",
+    "amount": 5128.98,
+    "currency": "AUD",
+    "transaction_date": "2025-09-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN83107284",
+    "customer_id": "CUST00082",
+    "amount": 809.77,
+    "currency": "EUR",
+    "transaction_date": "2025-09-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN65035457",
+    "customer_id": "CUST00032",
+    "amount": 2220.4,
+    "currency": "USD",
+    "transaction_date": "2025-12-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN58845893",
+    "customer_id": "CUST00090",
+    "amount": 2199.5,
+    "currency": "USD",
+    "transaction_date": "2025-05-31",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN35168575",
+    "customer_id": "CUST00038",
+    "amount": 7934.15,
+    "currency": "GBP",
+    "transaction_date": "2026-03-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN32481536",
+    "customer_id": "CUST00100",
+    "amount": 1015.31,
+    "currency": "USD",
+    "transaction_date": "2025-06-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN31409945",
+    "customer_id": "CUST00036",
+    "amount": 5852.51,
+    "currency": "INR",
+    "transaction_date": "2025-09-08",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN11005320",
+    "customer_id": "CUST00055",
+    "amount": 1292.83,
+    "currency": "GBP",
+    "transaction_date": "2025-10-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN67367927",
+    "customer_id": "CUST00057",
+    "amount": 8738.11,
+    "currency": "GBP",
+    "transaction_date": "2025-07-17",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN14540392",
+    "customer_id": "CUST00043",
+    "amount": 3126.74,
+    "currency": "INR",
+    "transaction_date": "2025-12-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN00061939",
+    "customer_id": "CUST00069",
+    "amount": 9833.33,
+    "currency": "AUD",
+    "transaction_date": "2026-05-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN21049060",
+    "customer_id": "CUST00005",
+    "amount": 5061.43,
+    "currency": "AUD",
+    "transaction_date": "2025-11-05",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN20277790",
+    "customer_id": "CUST00056",
+    "amount": 6045.18,
+    "currency": "AUD",
+    "transaction_date": "2025-05-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN59744034",
+    "customer_id": "CUST00024",
+    "amount": 2697.77,
+    "currency": "AUD",
+    "transaction_date": "2025-08-21",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN04161801",
+    "customer_id": "CUST00100",
+    "amount": 8070.49,
+    "currency": "EUR",
+    "transaction_date": "2025-10-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN96005597",
+    "customer_id": "CUST00026",
+    "amount": 7055.31,
+    "currency": "AUD",
+    "transaction_date": "2025-08-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN90983287",
+    "customer_id": "CUST00008",
+    "amount": 1602.47,
+    "currency": "AUD",
+    "transaction_date": "2025-07-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN29850401",
+    "customer_id": "CUST00048",
+    "amount": 7803.85,
+    "currency": "INR",
+    "transaction_date": "2025-07-24",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN84340557",
+    "customer_id": "CUST00092",
+    "amount": 3097.53,
+    "currency": "AUD",
+    "transaction_date": "2026-02-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN25079973",
+    "customer_id": "CUST00070",
+    "amount": 8529.26,
+    "currency": "INR",
+    "transaction_date": "2025-06-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN78845746",
+    "customer_id": "CUST00081",
+    "amount": 2238.64,
+    "currency": "EUR",
+    "transaction_date": "2025-08-15",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN85304550",
+    "customer_id": "CUST00074",
+    "amount": 9311.48,
+    "currency": "AUD",
+    "transaction_date": "2025-06-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN70016899",
+    "customer_id": "CUST00001",
+    "amount": 2878.3,
+    "currency": "GBP",
+    "transaction_date": "2026-03-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN45920432",
+    "customer_id": "CUST00023",
+    "amount": 5796.65,
+    "currency": "GBP",
+    "transaction_date": "2026-02-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN44107118",
+    "customer_id": "CUST00069",
+    "amount": 3914.53,
+    "currency": "INR",
+    "transaction_date": "2025-10-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN91861884",
+    "customer_id": "CUST00038",
+    "amount": 4730.25,
+    "currency": "INR",
+    "transaction_date": "2026-03-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN62314124",
+    "customer_id": "CUST00053",
+    "amount": 2565.46,
+    "currency": "AUD",
+    "transaction_date": "2026-01-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN69704602",
+    "customer_id": "CUST00059",
+    "amount": 6202.05,
+    "currency": "INR",
+    "transaction_date": "2026-05-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN63632674",
+    "customer_id": "CUST00024",
+    "amount": 935.14,
+    "currency": "USD",
+    "transaction_date": "2025-06-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN08655708",
+    "customer_id": "CUST00007",
+    "amount": 6540.04,
+    "currency": "EUR",
+    "transaction_date": "2026-02-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN81783055",
+    "customer_id": "CUST00051",
+    "amount": 5557.36,
+    "currency": "USD",
+    "transaction_date": "2025-08-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN76190983",
+    "customer_id": "CUST00055",
+    "amount": 8161.35,
+    "currency": "EUR",
+    "transaction_date": "2026-05-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN29874322",
+    "customer_id": "CUST00018",
+    "amount": 5303.97,
+    "currency": "USD",
+    "transaction_date": "2025-12-18",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN83341376",
+    "customer_id": "CUST00087",
+    "amount": 8152.23,
+    "currency": "EUR",
+    "transaction_date": "2025-07-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34841263",
+    "customer_id": "CUST00035",
+    "amount": 3057.74,
+    "currency": "EUR",
+    "transaction_date": "2025-09-24",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN68833774",
+    "customer_id": "CUST00036",
+    "amount": 1146.1,
+    "currency": "GBP",
+    "transaction_date": "2025-07-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN03707209",
+    "customer_id": "CUST00051",
+    "amount": 7882.97,
+    "currency": "USD",
+    "transaction_date": "2026-04-17",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN55478312",
+    "customer_id": "CUST00063",
+    "amount": 5513.77,
+    "currency": "USD",
+    "transaction_date": "2025-06-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN13081473",
+    "customer_id": "CUST00021",
+    "amount": 1908.72,
+    "currency": "USD",
+    "transaction_date": "2025-07-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN89629570",
+    "customer_id": "CUST00087",
+    "amount": 6396.92,
+    "currency": "EUR",
+    "transaction_date": "2025-09-10",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN47070031",
+    "customer_id": "CUST00015",
+    "amount": 4164.92,
+    "currency": "EUR",
+    "transaction_date": "2025-11-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN36745817",
+    "customer_id": "CUST00043",
+    "amount": 1622.23,
+    "currency": "USD",
+    "transaction_date": "2025-09-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN17141689",
+    "customer_id": "CUST00055",
+    "amount": 5804.5,
+    "currency": "GBP",
+    "transaction_date": "2026-04-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN86615439",
+    "customer_id": "CUST00068",
+    "amount": 4452.69,
+    "currency": "AUD",
+    "transaction_date": "2025-11-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN25774959",
+    "customer_id": "CUST00057",
+    "amount": 3550.93,
+    "currency": "AUD",
+    "transaction_date": "2026-05-19",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN46190100",
+    "customer_id": "CUST00089",
+    "amount": 9134.42,
+    "currency": "INR",
+    "transaction_date": "2025-11-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN72596090",
+    "customer_id": "CUST00052",
+    "amount": 9596.61,
+    "currency": "EUR",
+    "transaction_date": "2026-03-27",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN51726090",
+    "customer_id": "CUST00032",
+    "amount": 6240.6,
+    "currency": "GBP",
+    "transaction_date": "2025-07-26",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN65954578",
+    "customer_id": "CUST00059",
+    "amount": 2769.54,
+    "currency": "USD",
+    "transaction_date": "2026-03-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN45470476",
+    "customer_id": "CUST00061",
+    "amount": 3776.79,
+    "currency": "GBP",
+    "transaction_date": "2026-04-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN83231631",
+    "customer_id": "CUST00070",
+    "amount": 111.65,
+    "currency": "AUD",
+    "transaction_date": "2025-07-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN22851519",
+    "customer_id": "CUST00002",
+    "amount": 875.28,
+    "currency": "AUD",
+    "transaction_date": "2025-06-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN34069451",
+    "customer_id": "CUST00087",
+    "amount": 5929.68,
+    "currency": "GBP",
+    "transaction_date": "2025-10-10",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN50074616",
+    "customer_id": "CUST00079",
+    "amount": 9941.86,
+    "currency": "EUR",
+    "transaction_date": "2025-12-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN46848976",
+    "customer_id": "CUST00043",
+    "amount": 1175.96,
+    "currency": "USD",
+    "transaction_date": "2026-03-28",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN78926995",
+    "customer_id": "CUST00095",
+    "amount": 5387.36,
+    "currency": "INR",
+    "transaction_date": "2026-04-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN76944260",
+    "customer_id": "CUST00051",
+    "amount": 859.88,
+    "currency": "EUR",
+    "transaction_date": "2026-02-08",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN67126104",
+    "customer_id": "CUST00084",
+    "amount": 1969.63,
+    "currency": "EUR",
+    "transaction_date": "2026-04-19",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN76187771",
+    "customer_id": "CUST00100",
+    "amount": 5749.1,
+    "currency": "EUR",
+    "transaction_date": "2026-05-05",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN14397171",
+    "customer_id": "CUST00012",
+    "amount": 4138.38,
+    "currency": "USD",
+    "transaction_date": "2025-06-03",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN48301554",
+    "customer_id": "CUST00030",
+    "amount": 3500.05,
+    "currency": "USD",
+    "transaction_date": "2025-06-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN05052175",
+    "customer_id": "CUST00052",
+    "amount": 2281.61,
+    "currency": "AUD",
+    "transaction_date": "2026-03-20",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN41831359",
+    "customer_id": "CUST00042",
+    "amount": 4090.15,
+    "currency": "EUR",
+    "transaction_date": "2026-05-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN50689230",
+    "customer_id": "CUST00044",
+    "amount": 1386.26,
+    "currency": "GBP",
+    "transaction_date": "2025-08-06",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN14842628",
+    "customer_id": "CUST00014",
+    "amount": 528.81,
+    "currency": "GBP",
+    "transaction_date": "2025-09-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN59271235",
+    "customer_id": "CUST00066",
+    "amount": 2922.01,
+    "currency": "AUD",
+    "transaction_date": "2025-07-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN77117147",
+    "customer_id": "CUST00018",
+    "amount": 369.65,
+    "currency": "INR",
+    "transaction_date": "2026-02-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN22181262",
+    "customer_id": "CUST00027",
+    "amount": 8099.46,
+    "currency": "AUD",
+    "transaction_date": "2026-01-17",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN82505763",
+    "customer_id": "CUST00004",
+    "amount": 8693.36,
+    "currency": "EUR",
+    "transaction_date": "2026-05-06",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN90204248",
+    "customer_id": "CUST00040",
+    "amount": 6609.12,
+    "currency": "USD",
+    "transaction_date": "2025-05-28",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN23240404",
+    "customer_id": "CUST00066",
+    "amount": 5591.21,
+    "currency": "GBP",
+    "transaction_date": "2026-05-19",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN46328143",
+    "customer_id": "CUST00074",
+    "amount": 9350.96,
+    "currency": "AUD",
+    "transaction_date": "2026-03-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN63874612",
+    "customer_id": "CUST00012",
+    "amount": 8028.39,
+    "currency": "GBP",
+    "transaction_date": "2026-02-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN44538156",
+    "customer_id": "CUST00010",
+    "amount": 5642.37,
+    "currency": "AUD",
+    "transaction_date": "2026-01-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN20129457",
+    "customer_id": "CUST00076",
+    "amount": 4685.09,
+    "currency": "AUD",
+    "transaction_date": "2025-09-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN40740175",
+    "customer_id": "CUST00076",
+    "amount": 6596.43,
+    "currency": "AUD",
+    "transaction_date": "2026-02-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN79634780",
+    "customer_id": "CUST00098",
+    "amount": 8117.89,
+    "currency": "AUD",
+    "transaction_date": "2026-01-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN75247459",
+    "customer_id": "CUST00091",
+    "amount": 1477.81,
+    "currency": "EUR",
+    "transaction_date": "2025-09-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN70840316",
+    "customer_id": "CUST00037",
+    "amount": 9007.95,
+    "currency": "INR",
+    "transaction_date": "2026-05-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN36785347",
+    "customer_id": "CUST00008",
+    "amount": 1652.73,
+    "currency": "USD",
+    "transaction_date": "2026-05-03",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN88814612",
+    "customer_id": "CUST00029",
+    "amount": 9598.44,
+    "currency": "INR",
+    "transaction_date": "2026-01-10",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN52653687",
+    "customer_id": "CUST00073",
+    "amount": 6443.82,
+    "currency": "EUR",
+    "transaction_date": "2026-01-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN64679982",
+    "customer_id": "CUST00030",
+    "amount": 5396.74,
+    "currency": "USD",
+    "transaction_date": "2026-01-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN03925328",
+    "customer_id": "CUST00069",
+    "amount": 5503.11,
+    "currency": "AUD",
+    "transaction_date": "2026-03-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN15105805",
+    "customer_id": "CUST00096",
+    "amount": 3076.96,
+    "currency": "EUR",
+    "transaction_date": "2026-02-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN91817470",
+    "customer_id": "CUST00069",
+    "amount": 4516.55,
+    "currency": "EUR",
+    "transaction_date": "2025-11-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN81943436",
+    "customer_id": "CUST00069",
+    "amount": 4182.83,
+    "currency": "AUD",
+    "transaction_date": "2026-03-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN88191196",
+    "customer_id": "CUST00078",
+    "amount": 5786.59,
+    "currency": "INR",
+    "transaction_date": "2026-05-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN50157116",
+    "customer_id": "CUST00017",
+    "amount": 4982.37,
+    "currency": "AUD",
+    "transaction_date": "2025-06-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN89385623",
+    "customer_id": "CUST00001",
+    "amount": 2896.32,
+    "currency": "EUR",
+    "transaction_date": "2025-12-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN57031858",
+    "customer_id": "CUST00033",
+    "amount": 6803.77,
+    "currency": "EUR",
+    "transaction_date": "2026-01-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN89648114",
+    "customer_id": "CUST00071",
+    "amount": 2131.04,
+    "currency": "GBP",
+    "transaction_date": "2025-09-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN09986047",
+    "customer_id": "CUST00012",
+    "amount": 9900.11,
+    "currency": "USD",
+    "transaction_date": "2025-10-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN56189938",
+    "customer_id": "CUST00081",
+    "amount": 6307.9,
+    "currency": "AUD",
+    "transaction_date": "2025-09-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN86536746",
+    "customer_id": "CUST00037",
+    "amount": 2783.56,
+    "currency": "AUD",
+    "transaction_date": "2026-04-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN24368885",
+    "customer_id": "CUST00046",
+    "amount": 8926.67,
+    "currency": "AUD",
+    "transaction_date": "2025-11-17",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN17702485",
+    "customer_id": "CUST00027",
+    "amount": 5773.3,
+    "currency": "USD",
+    "transaction_date": "2026-01-15",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN58551713",
+    "customer_id": "CUST00050",
+    "amount": 741.62,
+    "currency": "EUR",
+    "transaction_date": "2026-03-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN05721779",
+    "customer_id": "CUST00056",
+    "amount": 8200.54,
+    "currency": "AUD",
+    "transaction_date": "2026-01-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN01594780",
+    "customer_id": "CUST00048",
+    "amount": 4667.82,
+    "currency": "AUD",
+    "transaction_date": "2026-01-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN36626920",
+    "customer_id": "CUST00069",
+    "amount": 8221.02,
+    "currency": "INR",
+    "transaction_date": "2026-02-26",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN35528357",
+    "customer_id": "CUST00024",
+    "amount": 7749.19,
+    "currency": "EUR",
+    "transaction_date": "2025-09-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN96551026",
+    "customer_id": "CUST00055",
+    "amount": 4163.33,
+    "currency": "INR",
+    "transaction_date": "2026-02-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN12754601",
+    "customer_id": "CUST00078",
+    "amount": 2142.03,
+    "currency": "EUR",
+    "transaction_date": "2025-10-15",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN71005064",
+    "customer_id": "CUST00006",
+    "amount": 5300.17,
+    "currency": "INR",
+    "transaction_date": "2026-05-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN61383586",
+    "customer_id": "CUST00024",
+    "amount": 8885.89,
+    "currency": "EUR",
+    "transaction_date": "2026-02-22",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN33699948",
+    "customer_id": "CUST00081",
+    "amount": 320.94,
+    "currency": "INR",
+    "transaction_date": "2025-08-19",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN85581640",
+    "customer_id": "CUST00023",
+    "amount": 4558.72,
+    "currency": "GBP",
+    "transaction_date": "2025-12-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN93123272",
+    "customer_id": "CUST00028",
+    "amount": 6389.7,
+    "currency": "GBP",
+    "transaction_date": "2026-01-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN48516807",
+    "customer_id": "CUST00042",
+    "amount": 7042.61,
+    "currency": "GBP",
+    "transaction_date": "2025-10-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN59418981",
+    "customer_id": "CUST00090",
+    "amount": 5915.69,
+    "currency": "INR",
+    "transaction_date": "2025-11-19",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN38181128",
+    "customer_id": "CUST00074",
+    "amount": 4773.86,
+    "currency": "GBP",
+    "transaction_date": "2025-07-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN31258042",
+    "customer_id": "CUST00058",
+    "amount": 6674.92,
+    "currency": "AUD",
+    "transaction_date": "2025-06-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN02493269",
+    "customer_id": "CUST00003",
+    "amount": 554.48,
+    "currency": "EUR",
+    "transaction_date": "2025-07-13",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN48738733",
+    "customer_id": "CUST00036",
+    "amount": 4785.47,
+    "currency": "INR",
+    "transaction_date": "2025-07-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN18690461",
+    "customer_id": "CUST00093",
+    "amount": 2232.09,
+    "currency": "GBP",
+    "transaction_date": "2025-07-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN82956675",
+    "customer_id": "CUST00091",
+    "amount": 3297.61,
+    "currency": "GBP",
+    "transaction_date": "2026-05-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN76022224",
+    "customer_id": "CUST00041",
+    "amount": 7950.38,
+    "currency": "AUD",
+    "transaction_date": "2025-07-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN78944442",
+    "customer_id": "CUST00025",
+    "amount": 9936.0,
+    "currency": "EUR",
+    "transaction_date": "2025-09-03",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN57934123",
+    "customer_id": "CUST00017",
+    "amount": 7266.83,
+    "currency": "EUR",
+    "transaction_date": "2025-08-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN48627374",
+    "customer_id": "CUST00026",
+    "amount": 4871.73,
+    "currency": "USD",
+    "transaction_date": "2026-03-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN78228268",
+    "customer_id": "CUST00040",
+    "amount": 4653.93,
+    "currency": "AUD",
+    "transaction_date": "2026-05-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN20156224",
+    "customer_id": "CUST00075",
+    "amount": 6404.77,
+    "currency": "GBP",
+    "transaction_date": "2026-02-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN93435712",
+    "customer_id": "CUST00095",
+    "amount": 2236.23,
+    "currency": "EUR",
+    "transaction_date": "2025-07-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN15769772",
+    "customer_id": "CUST00061",
+    "amount": 9191.29,
+    "currency": "INR",
+    "transaction_date": "2025-09-08",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN06185874",
+    "customer_id": "CUST00012",
+    "amount": 7358.4,
+    "currency": "EUR",
+    "transaction_date": "2025-11-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN38428620",
+    "customer_id": "CUST00015",
+    "amount": 1975.01,
+    "currency": "USD",
+    "transaction_date": "2025-07-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN19709120",
+    "customer_id": "CUST00027",
+    "amount": 677.15,
+    "currency": "GBP",
+    "transaction_date": "2026-02-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN07106192",
+    "customer_id": "CUST00086",
+    "amount": 8980.32,
+    "currency": "EUR",
+    "transaction_date": "2026-04-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN97736973",
+    "customer_id": "CUST00007",
+    "amount": 9100.53,
+    "currency": "EUR",
+    "transaction_date": "2025-07-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN75242183",
+    "customer_id": "CUST00083",
+    "amount": 8719.21,
+    "currency": "AUD",
+    "transaction_date": "2026-02-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN77405101",
+    "customer_id": "CUST00096",
+    "amount": 4887.28,
+    "currency": "INR",
+    "transaction_date": "2025-06-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN43498745",
+    "customer_id": "CUST00003",
+    "amount": 4793.47,
+    "currency": "INR",
+    "transaction_date": "2025-09-26",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN41652155",
+    "customer_id": "CUST00084",
+    "amount": 4778.69,
+    "currency": "USD",
+    "transaction_date": "2026-05-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN37923770",
+    "customer_id": "CUST00072",
+    "amount": 7496.21,
+    "currency": "USD",
+    "transaction_date": "2026-02-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN03561883",
+    "customer_id": "CUST00006",
+    "amount": 310.89,
+    "currency": "INR",
+    "transaction_date": "2025-08-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN88683234",
+    "customer_id": "CUST00078",
+    "amount": 3165.49,
+    "currency": "GBP",
+    "transaction_date": "2025-10-02",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN65990954",
+    "customer_id": "CUST00087",
+    "amount": 407.45,
+    "currency": "USD",
+    "transaction_date": "2025-05-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN77710047",
+    "customer_id": "CUST00036",
+    "amount": 5528.3,
+    "currency": "AUD",
+    "transaction_date": "2025-12-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN32274898",
+    "customer_id": "CUST00044",
+    "amount": 5707.01,
+    "currency": "USD",
+    "transaction_date": "2025-07-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN66696444",
+    "customer_id": "CUST00034",
+    "amount": 3161.06,
+    "currency": "GBP",
+    "transaction_date": "2025-08-13",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN55833644",
+    "customer_id": "CUST00031",
+    "amount": 988.61,
+    "currency": "GBP",
+    "transaction_date": "2025-11-20",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN35061081",
+    "customer_id": "CUST00020",
+    "amount": 633.23,
+    "currency": "USD",
+    "transaction_date": "2025-10-17",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN16123441",
+    "customer_id": "CUST00038",
+    "amount": 328.55,
+    "currency": "USD",
+    "transaction_date": "2025-12-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN20030052",
+    "customer_id": "CUST00053",
+    "amount": 2276.54,
+    "currency": "USD",
+    "transaction_date": "2025-10-08",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN54453342",
+    "customer_id": "CUST00037",
+    "amount": 8888.86,
+    "currency": "INR",
+    "transaction_date": "2025-11-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN64382799",
+    "customer_id": "CUST00057",
+    "amount": 2834.74,
+    "currency": "USD",
+    "transaction_date": "2026-03-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN98703749",
+    "customer_id": "CUST00093",
+    "amount": 7930.46,
+    "currency": "EUR",
+    "transaction_date": "2025-09-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN94227509",
+    "customer_id": "CUST00010",
+    "amount": 9521.87,
+    "currency": "GBP",
+    "transaction_date": "2026-03-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN84585602",
+    "customer_id": "CUST00048",
+    "amount": 9307.31,
+    "currency": "INR",
+    "transaction_date": "2025-09-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN91960706",
+    "customer_id": "CUST00083",
+    "amount": 2114.09,
+    "currency": "USD",
+    "transaction_date": "2026-01-17",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN94730668",
+    "customer_id": "CUST00038",
+    "amount": 8571.11,
+    "currency": "AUD",
+    "transaction_date": "2025-07-26",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN17274852",
+    "customer_id": "CUST00083",
+    "amount": 423.71,
+    "currency": "GBP",
+    "transaction_date": "2025-07-19",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN11438171",
+    "customer_id": "CUST00100",
+    "amount": 2171.79,
+    "currency": "GBP",
+    "transaction_date": "2025-06-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN71090806",
+    "customer_id": "CUST00055",
+    "amount": 8994.55,
+    "currency": "INR",
+    "transaction_date": "2025-08-16",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN64242710",
+    "customer_id": "CUST00049",
+    "amount": 1021.04,
+    "currency": "GBP",
+    "transaction_date": "2026-02-18",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN29320747",
+    "customer_id": "CUST00038",
+    "amount": 4757.14,
+    "currency": "INR",
+    "transaction_date": "2025-07-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN18036645",
+    "customer_id": "CUST00011",
+    "amount": 6004.11,
+    "currency": "INR",
+    "transaction_date": "2025-09-06",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN02831072",
+    "customer_id": "CUST00081",
+    "amount": 1953.2,
+    "currency": "USD",
+    "transaction_date": "2025-09-17",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN55334215",
+    "customer_id": "CUST00032",
+    "amount": 6913.56,
+    "currency": "USD",
+    "transaction_date": "2025-06-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN21217693",
+    "customer_id": "CUST00031",
+    "amount": 158.31,
+    "currency": "GBP",
+    "transaction_date": "2025-07-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN33878473",
+    "customer_id": "CUST00065",
+    "amount": 1297.03,
+    "currency": "EUR",
+    "transaction_date": "2025-11-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN45502866",
+    "customer_id": "CUST00027",
+    "amount": 730.8,
+    "currency": "GBP",
+    "transaction_date": "2025-06-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN66725420",
+    "customer_id": "CUST00058",
+    "amount": 9299.51,
+    "currency": "INR",
+    "transaction_date": "2026-02-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN44303417",
+    "customer_id": "CUST00002",
+    "amount": 3962.93,
+    "currency": "INR",
+    "transaction_date": "2026-05-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN66655743",
+    "customer_id": "CUST00062",
+    "amount": 4947.27,
+    "currency": "USD",
+    "transaction_date": "2025-07-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN04285300",
+    "customer_id": "CUST00068",
+    "amount": 1313.16,
+    "currency": "GBP",
+    "transaction_date": "2025-09-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN27379443",
+    "customer_id": "CUST00054",
+    "amount": 9300.57,
+    "currency": "EUR",
+    "transaction_date": "2026-03-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN44773259",
+    "customer_id": "CUST00080",
+    "amount": 5883.63,
+    "currency": "AUD",
+    "transaction_date": "2025-10-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN54970710",
+    "customer_id": "CUST00003",
+    "amount": 9506.57,
+    "currency": "EUR",
+    "transaction_date": "2025-11-26",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN92408225",
+    "customer_id": "CUST00059",
+    "amount": 896.18,
+    "currency": "GBP",
+    "transaction_date": "2025-12-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN59919591",
+    "customer_id": "CUST00018",
+    "amount": 7858.69,
+    "currency": "INR",
+    "transaction_date": "2026-05-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN50461898",
+    "customer_id": "CUST00038",
+    "amount": 9934.67,
+    "currency": "AUD",
+    "transaction_date": "2025-07-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN73829490",
+    "customer_id": "CUST00009",
+    "amount": 462.49,
+    "currency": "GBP",
+    "transaction_date": "2026-05-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN20972649",
+    "customer_id": "CUST00077",
+    "amount": 1402.73,
+    "currency": "AUD",
+    "transaction_date": "2026-02-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN18664912",
+    "customer_id": "CUST00090",
+    "amount": 5141.69,
+    "currency": "AUD",
+    "transaction_date": "2026-04-13",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN82019362",
+    "customer_id": "CUST00092",
+    "amount": 844.93,
+    "currency": "EUR",
+    "transaction_date": "2025-07-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN51869093",
+    "customer_id": "CUST00064",
+    "amount": 3902.99,
+    "currency": "EUR",
+    "transaction_date": "2025-12-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN05400122",
+    "customer_id": "CUST00086",
+    "amount": 8815.54,
+    "currency": "AUD",
+    "transaction_date": "2025-11-30",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN77664907",
+    "customer_id": "CUST00008",
+    "amount": 3923.02,
+    "currency": "USD",
+    "transaction_date": "2026-04-17",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN95614642",
+    "customer_id": "CUST00020",
+    "amount": 8030.46,
+    "currency": "AUD",
+    "transaction_date": "2026-04-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN47222474",
+    "customer_id": "CUST00018",
+    "amount": 3802.8,
+    "currency": "GBP",
+    "transaction_date": "2026-03-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN83849348",
+    "customer_id": "CUST00025",
+    "amount": 651.17,
+    "currency": "AUD",
+    "transaction_date": "2025-07-24",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN89652109",
+    "customer_id": "CUST00031",
+    "amount": 8355.11,
+    "currency": "GBP",
+    "transaction_date": "2026-05-15",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN77694324",
+    "customer_id": "CUST00016",
+    "amount": 941.59,
+    "currency": "EUR",
+    "transaction_date": "2025-06-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN32072889",
+    "customer_id": "CUST00057",
+    "amount": 7925.5,
+    "currency": "EUR",
+    "transaction_date": "2026-03-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN86803393",
+    "customer_id": "CUST00099",
+    "amount": 9882.63,
+    "currency": "USD",
+    "transaction_date": "2025-12-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN48234390",
+    "customer_id": "CUST00043",
+    "amount": 3800.43,
+    "currency": "EUR",
+    "transaction_date": "2026-01-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN02199686",
+    "customer_id": "CUST00095",
+    "amount": 1263.62,
+    "currency": "USD",
+    "transaction_date": "2026-04-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN81995498",
+    "customer_id": "CUST00085",
+    "amount": 8281.36,
+    "currency": "USD",
+    "transaction_date": "2026-04-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN52296884",
+    "customer_id": "CUST00045",
+    "amount": 5558.7,
+    "currency": "INR",
+    "transaction_date": "2026-02-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN66211264",
+    "customer_id": "CUST00001",
+    "amount": 2930.96,
+    "currency": "INR",
+    "transaction_date": "2025-11-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN16556438",
+    "customer_id": "CUST00097",
+    "amount": 6096.18,
+    "currency": "USD",
+    "transaction_date": "2025-11-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN10502326",
+    "customer_id": "CUST00090",
+    "amount": 2620.47,
+    "currency": "EUR",
+    "transaction_date": "2025-12-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN49516958",
+    "customer_id": "CUST00030",
+    "amount": 5989.78,
+    "currency": "USD",
+    "transaction_date": "2026-04-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN67251709",
+    "customer_id": "CUST00039",
+    "amount": 4920.95,
+    "currency": "INR",
+    "transaction_date": "2026-02-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN07249510",
+    "customer_id": "CUST00073",
+    "amount": 3127.85,
+    "currency": "USD",
+    "transaction_date": "2026-05-03",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN42124390",
+    "customer_id": "CUST00024",
+    "amount": 2640.1,
+    "currency": "EUR",
+    "transaction_date": "2025-12-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN03924799",
+    "customer_id": "CUST00047",
+    "amount": 6596.85,
+    "currency": "INR",
+    "transaction_date": "2026-05-06",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN81171411",
+    "customer_id": "CUST00040",
+    "amount": 8905.31,
+    "currency": "AUD",
+    "transaction_date": "2026-02-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN47098585",
+    "customer_id": "CUST00071",
+    "amount": 7481.68,
+    "currency": "INR",
+    "transaction_date": "2025-06-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN13243868",
+    "customer_id": "CUST00028",
+    "amount": 9069.94,
+    "currency": "EUR",
+    "transaction_date": "2025-06-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN30044125",
+    "customer_id": "CUST00068",
+    "amount": 4606.98,
+    "currency": "EUR",
+    "transaction_date": "2026-02-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN58201777",
+    "customer_id": "CUST00033",
+    "amount": 2131.05,
+    "currency": "GBP",
+    "transaction_date": "2026-05-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN06307141",
+    "customer_id": "CUST00027",
+    "amount": 7090.88,
+    "currency": "USD",
+    "transaction_date": "2025-06-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN35937230",
+    "customer_id": "CUST00024",
+    "amount": 1429.42,
+    "currency": "AUD",
+    "transaction_date": "2026-01-27",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN17799038",
+    "customer_id": "CUST00010",
+    "amount": 7765.82,
+    "currency": "EUR",
+    "transaction_date": "2025-11-20",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34421942",
+    "customer_id": "CUST00005",
+    "amount": 7414.26,
+    "currency": "EUR",
+    "transaction_date": "2025-09-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN49907312",
+    "customer_id": "CUST00080",
+    "amount": 3852.91,
+    "currency": "EUR",
+    "transaction_date": "2025-06-22",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN16471955",
+    "customer_id": "CUST00070",
+    "amount": 5480.84,
+    "currency": "EUR",
+    "transaction_date": "2026-04-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN56183335",
+    "customer_id": "CUST00015",
+    "amount": 8448.38,
+    "currency": "USD",
+    "transaction_date": "2025-12-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN25613009",
+    "customer_id": "CUST00092",
+    "amount": 1141.68,
+    "currency": "GBP",
+    "transaction_date": "2025-06-17",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN53348658",
+    "customer_id": "CUST00063",
+    "amount": 7942.74,
+    "currency": "GBP",
+    "transaction_date": "2026-05-15",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN38073258",
+    "customer_id": "CUST00070",
+    "amount": 6888.04,
+    "currency": "AUD",
+    "transaction_date": "2026-05-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN95378018",
+    "customer_id": "CUST00051",
+    "amount": 8852.5,
+    "currency": "EUR",
+    "transaction_date": "2025-07-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN69433753",
+    "customer_id": "CUST00010",
+    "amount": 2147.38,
+    "currency": "INR",
+    "transaction_date": "2025-06-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN45141042",
+    "customer_id": "CUST00094",
+    "amount": 4110.64,
+    "currency": "EUR",
+    "transaction_date": "2025-10-22",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN37216707",
+    "customer_id": "CUST00054",
+    "amount": 7486.82,
+    "currency": "GBP",
+    "transaction_date": "2025-12-13",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN44580506",
+    "customer_id": "CUST00090",
+    "amount": 1711.93,
+    "currency": "INR",
+    "transaction_date": "2026-04-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN33352125",
+    "customer_id": "CUST00054",
+    "amount": 8804.45,
+    "currency": "AUD",
+    "transaction_date": "2025-11-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN17949455",
+    "customer_id": "CUST00014",
+    "amount": 3288.29,
+    "currency": "INR",
+    "transaction_date": "2026-01-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN90662041",
+    "customer_id": "CUST00057",
+    "amount": 1426.43,
+    "currency": "INR",
+    "transaction_date": "2026-03-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN29230603",
+    "customer_id": "CUST00034",
+    "amount": 9362.19,
+    "currency": "GBP",
+    "transaction_date": "2025-07-15",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN05166287",
+    "customer_id": "CUST00095",
+    "amount": 9935.77,
+    "currency": "GBP",
+    "transaction_date": "2026-02-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN05457319",
+    "customer_id": "CUST00011",
+    "amount": 7424.37,
+    "currency": "USD",
+    "transaction_date": "2026-02-22",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN58842263",
+    "customer_id": "CUST00078",
+    "amount": 4286.39,
+    "currency": "EUR",
+    "transaction_date": "2025-08-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN19296676",
+    "customer_id": "CUST00058",
+    "amount": 5524.43,
+    "currency": "AUD",
+    "transaction_date": "2025-12-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN18554210",
+    "customer_id": "CUST00081",
+    "amount": 4879.21,
+    "currency": "AUD",
+    "transaction_date": "2025-11-21",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN81406215",
+    "customer_id": "CUST00062",
+    "amount": 3672.04,
+    "currency": "INR",
+    "transaction_date": "2025-09-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN84905358",
+    "customer_id": "CUST00073",
+    "amount": 3608.38,
+    "currency": "EUR",
+    "transaction_date": "2025-12-16",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN31465837",
+    "customer_id": "CUST00050",
+    "amount": 3980.26,
+    "currency": "INR",
+    "transaction_date": "2026-04-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN32280348",
+    "customer_id": "CUST00073",
+    "amount": 1970.68,
+    "currency": "INR",
+    "transaction_date": "2025-07-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN16710374",
+    "customer_id": "CUST00015",
+    "amount": 3528.5,
+    "currency": "AUD",
+    "transaction_date": "2025-08-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN49884234",
+    "customer_id": "CUST00091",
+    "amount": 376.48,
+    "currency": "GBP",
+    "transaction_date": "2025-06-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN10350362",
+    "customer_id": "CUST00041",
+    "amount": 5227.33,
+    "currency": "USD",
+    "transaction_date": "2026-04-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN87245135",
+    "customer_id": "CUST00036",
+    "amount": 4224.82,
+    "currency": "USD",
+    "transaction_date": "2026-03-24",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN90649034",
+    "customer_id": "CUST00037",
+    "amount": 5332.69,
+    "currency": "AUD",
+    "transaction_date": "2025-12-01",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN32379558",
+    "customer_id": "CUST00051",
+    "amount": 8699.93,
+    "currency": "EUR",
+    "transaction_date": "2026-04-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN62582273",
+    "customer_id": "CUST00067",
+    "amount": 6272.15,
+    "currency": "GBP",
+    "transaction_date": "2026-04-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN46466888",
+    "customer_id": "CUST00017",
+    "amount": 2992.5,
+    "currency": "INR",
+    "transaction_date": "2025-10-08",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN91229182",
+    "customer_id": "CUST00055",
+    "amount": 5037.06,
+    "currency": "GBP",
+    "transaction_date": "2025-12-02",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN19417828",
+    "customer_id": "CUST00011",
+    "amount": 1939.09,
+    "currency": "GBP",
+    "transaction_date": "2026-01-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN86112186",
+    "customer_id": "CUST00007",
+    "amount": 3386.7,
+    "currency": "EUR",
+    "transaction_date": "2025-11-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN44907619",
+    "customer_id": "CUST00097",
+    "amount": 9088.15,
+    "currency": "AUD",
+    "transaction_date": "2025-10-16",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN67441668",
+    "customer_id": "CUST00080",
+    "amount": 9863.2,
+    "currency": "GBP",
+    "transaction_date": "2025-10-29",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN20147868",
+    "customer_id": "CUST00047",
+    "amount": 9919.62,
+    "currency": "EUR",
+    "transaction_date": "2025-07-04",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN72934095",
+    "customer_id": "CUST00012",
+    "amount": 2955.44,
+    "currency": "AUD",
+    "transaction_date": "2025-12-31",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN76367778",
+    "customer_id": "CUST00027",
+    "amount": 2680.51,
+    "currency": "AUD",
+    "transaction_date": "2025-11-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN06996824",
+    "customer_id": "CUST00037",
+    "amount": 9623.9,
+    "currency": "USD",
+    "transaction_date": "2025-11-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN86710641",
+    "customer_id": "CUST00042",
+    "amount": 104.06,
+    "currency": "INR",
+    "transaction_date": "2025-10-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN47284059",
+    "customer_id": "CUST00020",
+    "amount": 7440.64,
+    "currency": "AUD",
+    "transaction_date": "2025-11-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN91561428",
+    "customer_id": "CUST00079",
+    "amount": 875.13,
+    "currency": "GBP",
+    "transaction_date": "2026-05-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN01976698",
+    "customer_id": "CUST00065",
+    "amount": 5412.76,
+    "currency": "AUD",
+    "transaction_date": "2025-09-08",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN94629129",
+    "customer_id": "CUST00083",
+    "amount": 9525.94,
+    "currency": "EUR",
+    "transaction_date": "2025-09-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN59189892",
+    "customer_id": "CUST00001",
+    "amount": 5961.75,
+    "currency": "GBP",
+    "transaction_date": "2025-11-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN19185558",
+    "customer_id": "CUST00064",
+    "amount": 5897.3,
+    "currency": "EUR",
+    "transaction_date": "2025-10-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN36305066",
+    "customer_id": "CUST00083",
+    "amount": 330.37,
+    "currency": "EUR",
+    "transaction_date": "2025-11-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN92884960",
+    "customer_id": "CUST00014",
+    "amount": 3883.6,
+    "currency": "EUR",
+    "transaction_date": "2025-10-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN16265019",
+    "customer_id": "CUST00023",
+    "amount": 4153.05,
+    "currency": "USD",
+    "transaction_date": "2026-03-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN06139668",
+    "customer_id": "CUST00097",
+    "amount": 366.27,
+    "currency": "AUD",
+    "transaction_date": "2025-12-04",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN50901117",
+    "customer_id": "CUST00057",
+    "amount": 189.25,
+    "currency": "USD",
+    "transaction_date": "2025-07-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN35324074",
+    "customer_id": "CUST00050",
+    "amount": 7784.31,
+    "currency": "EUR",
+    "transaction_date": "2025-07-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN94565857",
+    "customer_id": "CUST00088",
+    "amount": 101.21,
+    "currency": "EUR",
+    "transaction_date": "2025-10-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN18409901",
+    "customer_id": "CUST00033",
+    "amount": 1740.86,
+    "currency": "GBP",
+    "transaction_date": "2025-11-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN09244014",
+    "customer_id": "CUST00013",
+    "amount": 5919.71,
+    "currency": "GBP",
+    "transaction_date": "2025-12-20",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN68937172",
+    "customer_id": "CUST00033",
+    "amount": 3024.93,
+    "currency": "AUD",
+    "transaction_date": "2025-11-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN07989079",
+    "customer_id": "CUST00050",
+    "amount": 5308.83,
+    "currency": "USD",
+    "transaction_date": "2026-05-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN25160898",
+    "customer_id": "CUST00068",
+    "amount": 2769.93,
+    "currency": "EUR",
+    "transaction_date": "2026-02-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN64692618",
+    "customer_id": "CUST00061",
+    "amount": 1546.17,
+    "currency": "GBP",
+    "transaction_date": "2026-03-26",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN39952493",
+    "customer_id": "CUST00069",
+    "amount": 7341.13,
+    "currency": "AUD",
+    "transaction_date": "2025-10-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN93478509",
+    "customer_id": "CUST00076",
+    "amount": 187.99,
+    "currency": "GBP",
+    "transaction_date": "2026-05-21",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN26354034",
+    "customer_id": "CUST00086",
+    "amount": 1022.92,
+    "currency": "INR",
+    "transaction_date": "2025-10-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN13705428",
+    "customer_id": "CUST00025",
+    "amount": 6365.05,
+    "currency": "GBP",
+    "transaction_date": "2025-06-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN01080179",
+    "customer_id": "CUST00006",
+    "amount": 6275.8,
+    "currency": "AUD",
+    "transaction_date": "2025-08-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN08232446",
+    "customer_id": "CUST00020",
+    "amount": 4626.24,
+    "currency": "AUD",
+    "transaction_date": "2025-06-18",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN26168814",
+    "customer_id": "CUST00034",
+    "amount": 3319.23,
+    "currency": "AUD",
+    "transaction_date": "2026-02-15",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN48581563",
+    "customer_id": "CUST00089",
+    "amount": 1041.53,
+    "currency": "GBP",
+    "transaction_date": "2025-12-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN13582465",
+    "customer_id": "CUST00023",
+    "amount": 7010.69,
+    "currency": "INR",
+    "transaction_date": "2026-04-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN81203627",
+    "customer_id": "CUST00002",
+    "amount": 4362.9,
+    "currency": "AUD",
+    "transaction_date": "2026-03-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN76783096",
+    "customer_id": "CUST00064",
+    "amount": 7362.0,
+    "currency": "AUD",
+    "transaction_date": "2025-07-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN75989067",
+    "customer_id": "CUST00062",
+    "amount": 4140.27,
+    "currency": "GBP",
+    "transaction_date": "2026-03-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN60814400",
+    "customer_id": "CUST00094",
+    "amount": 6871.26,
+    "currency": "GBP",
+    "transaction_date": "2025-07-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN12722062",
+    "customer_id": "CUST00094",
+    "amount": 2782.53,
+    "currency": "INR",
+    "transaction_date": "2026-01-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN78414321",
+    "customer_id": "CUST00066",
+    "amount": 2267.36,
+    "currency": "EUR",
+    "transaction_date": "2026-05-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN66675132",
+    "customer_id": "CUST00077",
+    "amount": 425.1,
+    "currency": "GBP",
+    "transaction_date": "2026-03-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN30870641",
+    "customer_id": "CUST00087",
+    "amount": 1423.66,
+    "currency": "USD",
+    "transaction_date": "2025-07-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN22145583",
+    "customer_id": "CUST00061",
+    "amount": 9235.34,
+    "currency": "AUD",
+    "transaction_date": "2025-12-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN94476145",
+    "customer_id": "CUST00056",
+    "amount": 6110.43,
+    "currency": "USD",
+    "transaction_date": "2025-12-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN61642342",
+    "customer_id": "CUST00069",
+    "amount": 4282.81,
+    "currency": "INR",
+    "transaction_date": "2025-08-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN13328332",
+    "customer_id": "CUST00063",
+    "amount": 9311.75,
+    "currency": "USD",
+    "transaction_date": "2026-05-16",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN29824562",
+    "customer_id": "CUST00046",
+    "amount": 8488.23,
+    "currency": "USD",
+    "transaction_date": "2025-07-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN80361965",
+    "customer_id": "CUST00027",
+    "amount": 6919.27,
+    "currency": "INR",
+    "transaction_date": "2025-10-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN33159412",
+    "customer_id": "CUST00054",
+    "amount": 6755.3,
+    "currency": "GBP",
+    "transaction_date": "2026-04-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN26515115",
+    "customer_id": "CUST00030",
+    "amount": 3744.34,
+    "currency": "EUR",
+    "transaction_date": "2026-04-12",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN81600331",
+    "customer_id": "CUST00006",
+    "amount": 9710.35,
+    "currency": "INR",
+    "transaction_date": "2026-05-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN63409977",
+    "customer_id": "CUST00034",
+    "amount": 6469.02,
+    "currency": "EUR",
+    "transaction_date": "2025-12-20",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN38706962",
+    "customer_id": "CUST00011",
+    "amount": 3434.07,
+    "currency": "EUR",
+    "transaction_date": "2025-09-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN59571466",
+    "customer_id": "CUST00019",
+    "amount": 7005.59,
+    "currency": "AUD",
+    "transaction_date": "2026-04-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN79297490",
+    "customer_id": "CUST00007",
+    "amount": 2930.63,
+    "currency": "USD",
+    "transaction_date": "2026-03-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN13736412",
+    "customer_id": "CUST00058",
+    "amount": 8681.21,
+    "currency": "USD",
+    "transaction_date": "2026-05-18",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN27198777",
+    "customer_id": "CUST00001",
+    "amount": 6514.49,
+    "currency": "AUD",
+    "transaction_date": "2026-03-28",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN64499499",
+    "customer_id": "CUST00029",
+    "amount": 2022.3,
+    "currency": "EUR",
+    "transaction_date": "2025-11-13",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN32000904",
+    "customer_id": "CUST00087",
+    "amount": 3235.98,
+    "currency": "INR",
+    "transaction_date": "2026-05-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN62357589",
+    "customer_id": "CUST00049",
+    "amount": 1934.61,
+    "currency": "EUR",
+    "transaction_date": "2026-02-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN41384924",
+    "customer_id": "CUST00066",
+    "amount": 7525.42,
+    "currency": "GBP",
+    "transaction_date": "2025-12-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN60323170",
+    "customer_id": "CUST00059",
+    "amount": 119.09,
+    "currency": "GBP",
+    "transaction_date": "2025-07-31",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN39756326",
+    "customer_id": "CUST00032",
+    "amount": 2755.33,
+    "currency": "EUR",
+    "transaction_date": "2026-03-24",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN09523853",
+    "customer_id": "CUST00017",
+    "amount": 375.63,
+    "currency": "EUR",
+    "transaction_date": "2026-02-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN81394640",
+    "customer_id": "CUST00020",
+    "amount": 9743.35,
+    "currency": "EUR",
+    "transaction_date": "2025-11-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN27779867",
+    "customer_id": "CUST00053",
+    "amount": 1208.95,
+    "currency": "INR",
+    "transaction_date": "2025-06-15",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN49630256",
+    "customer_id": "CUST00052",
+    "amount": 9701.42,
+    "currency": "GBP",
+    "transaction_date": "2025-05-30",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN81200267",
+    "customer_id": "CUST00024",
+    "amount": 5199.76,
+    "currency": "AUD",
+    "transaction_date": "2025-08-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN06903015",
+    "customer_id": "CUST00023",
+    "amount": 2408.36,
+    "currency": "USD",
+    "transaction_date": "2025-12-31",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN45389367",
+    "customer_id": "CUST00032",
+    "amount": 145.17,
+    "currency": "EUR",
+    "transaction_date": "2026-05-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN81347236",
+    "customer_id": "CUST00071",
+    "amount": 3068.75,
+    "currency": "INR",
+    "transaction_date": "2025-11-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN38973589",
+    "customer_id": "CUST00024",
+    "amount": 5098.12,
+    "currency": "GBP",
+    "transaction_date": "2025-11-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN42854196",
+    "customer_id": "CUST00028",
+    "amount": 4550.19,
+    "currency": "GBP",
+    "transaction_date": "2026-04-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN35487472",
+    "customer_id": "CUST00007",
+    "amount": 7258.54,
+    "currency": "GBP",
+    "transaction_date": "2025-06-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN64004345",
+    "customer_id": "CUST00031",
+    "amount": 4659.12,
+    "currency": "AUD",
+    "transaction_date": "2025-09-27",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN42865438",
+    "customer_id": "CUST00094",
+    "amount": 5488.76,
+    "currency": "AUD",
+    "transaction_date": "2025-08-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN53063635",
+    "customer_id": "CUST00095",
+    "amount": 2249.7,
+    "currency": "INR",
+    "transaction_date": "2025-07-24",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN51373716",
+    "customer_id": "CUST00073",
+    "amount": 7851.79,
+    "currency": "EUR",
+    "transaction_date": "2026-02-21",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN91678870",
+    "customer_id": "CUST00034",
+    "amount": 1900.91,
+    "currency": "EUR",
+    "transaction_date": "2025-11-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN07839829",
+    "customer_id": "CUST00093",
+    "amount": 9594.22,
+    "currency": "USD",
+    "transaction_date": "2025-06-20",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN94216924",
+    "customer_id": "CUST00092",
+    "amount": 1480.09,
+    "currency": "EUR",
+    "transaction_date": "2025-07-08",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN51188047",
+    "customer_id": "CUST00097",
+    "amount": 8010.97,
+    "currency": "GBP",
+    "transaction_date": "2026-05-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN38387735",
+    "customer_id": "CUST00039",
+    "amount": 6465.38,
+    "currency": "AUD",
+    "transaction_date": "2026-03-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN79004512",
+    "customer_id": "CUST00077",
+    "amount": 315.24,
+    "currency": "USD",
+    "transaction_date": "2026-03-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN13587395",
+    "customer_id": "CUST00076",
+    "amount": 5952.96,
+    "currency": "INR",
+    "transaction_date": "2025-06-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN82576188",
+    "customer_id": "CUST00042",
+    "amount": 2149.36,
+    "currency": "AUD",
+    "transaction_date": "2025-10-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN85525818",
+    "customer_id": "CUST00044",
+    "amount": 390.71,
+    "currency": "INR",
+    "transaction_date": "2025-06-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN65686336",
+    "customer_id": "CUST00041",
+    "amount": 5112.27,
+    "currency": "USD",
+    "transaction_date": "2025-10-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN39834284",
+    "customer_id": "CUST00099",
+    "amount": 7840.03,
+    "currency": "INR",
+    "transaction_date": "2025-11-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN72608210",
+    "customer_id": "CUST00009",
+    "amount": 7299.62,
+    "currency": "GBP",
+    "transaction_date": "2025-07-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN22366931",
+    "customer_id": "CUST00052",
+    "amount": 5957.84,
+    "currency": "AUD",
+    "transaction_date": "2025-09-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN38302416",
+    "customer_id": "CUST00036",
+    "amount": 3708.72,
+    "currency": "USD",
+    "transaction_date": "2026-04-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN69741938",
+    "customer_id": "CUST00024",
+    "amount": 4115.17,
+    "currency": "AUD",
+    "transaction_date": "2025-06-10",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN65096396",
+    "customer_id": "CUST00042",
+    "amount": 4224.76,
+    "currency": "INR",
+    "transaction_date": "2026-02-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN03235115",
+    "customer_id": "CUST00097",
+    "amount": 4753.94,
+    "currency": "AUD",
+    "transaction_date": "2025-11-03",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN26185210",
+    "customer_id": "CUST00056",
+    "amount": 1343.69,
+    "currency": "INR",
+    "transaction_date": "2025-12-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN57942044",
+    "customer_id": "CUST00091",
+    "amount": 1832.99,
+    "currency": "USD",
+    "transaction_date": "2025-07-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN61521758",
+    "customer_id": "CUST00027",
+    "amount": 3709.92,
+    "currency": "AUD",
+    "transaction_date": "2025-12-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN45415189",
+    "customer_id": "CUST00097",
+    "amount": 5363.18,
+    "currency": "USD",
+    "transaction_date": "2025-12-24",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN01280029",
+    "customer_id": "CUST00033",
+    "amount": 6199.14,
+    "currency": "USD",
+    "transaction_date": "2026-02-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN97428599",
+    "customer_id": "CUST00097",
+    "amount": 8114.42,
+    "currency": "USD",
+    "transaction_date": "2026-04-09",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN57904584",
+    "customer_id": "CUST00069",
+    "amount": 6646.54,
+    "currency": "AUD",
+    "transaction_date": "2025-10-05",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN36405979",
+    "customer_id": "CUST00098",
+    "amount": 5172.66,
+    "currency": "INR",
+    "transaction_date": "2026-04-19",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN14663321",
+    "customer_id": "CUST00044",
+    "amount": 9131.52,
+    "currency": "INR",
+    "transaction_date": "2026-03-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN43969975",
+    "customer_id": "CUST00003",
+    "amount": 959.35,
+    "currency": "INR",
+    "transaction_date": "2026-03-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN08858597",
+    "customer_id": "CUST00077",
+    "amount": 152.94,
+    "currency": "EUR",
+    "transaction_date": "2026-05-02",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN62893935",
+    "customer_id": "CUST00041",
+    "amount": 4519.8,
+    "currency": "EUR",
+    "transaction_date": "2026-01-18",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN99718885",
+    "customer_id": "CUST00027",
+    "amount": 5935.66,
+    "currency": "USD",
+    "transaction_date": "2025-09-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN10136673",
+    "customer_id": "CUST00036",
+    "amount": 5490.33,
+    "currency": "INR",
+    "transaction_date": "2026-01-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN67413034",
+    "customer_id": "CUST00094",
+    "amount": 3832.25,
+    "currency": "EUR",
+    "transaction_date": "2025-07-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN78493113",
+    "customer_id": "CUST00045",
+    "amount": 7603.6,
+    "currency": "EUR",
+    "transaction_date": "2025-10-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN73353374",
+    "customer_id": "CUST00017",
+    "amount": 6733.89,
+    "currency": "USD",
+    "transaction_date": "2025-11-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN71544872",
+    "customer_id": "CUST00084",
+    "amount": 6238.79,
+    "currency": "USD",
+    "transaction_date": "2025-07-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN81244277",
+    "customer_id": "CUST00038",
+    "amount": 7493.93,
+    "currency": "AUD",
+    "transaction_date": "2026-02-03",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN85382362",
+    "customer_id": "CUST00001",
+    "amount": 6220.5,
+    "currency": "USD",
+    "transaction_date": "2026-05-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN45441467",
+    "customer_id": "CUST00077",
+    "amount": 2682.38,
+    "currency": "EUR",
+    "transaction_date": "2026-03-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN83496492",
+    "customer_id": "CUST00017",
+    "amount": 9515.17,
+    "currency": "AUD",
+    "transaction_date": "2025-08-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN49022871",
+    "customer_id": "CUST00060",
+    "amount": 1352.82,
+    "currency": "USD",
+    "transaction_date": "2026-03-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN57141384",
+    "customer_id": "CUST00044",
+    "amount": 802.02,
+    "currency": "INR",
+    "transaction_date": "2025-10-03",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN68981066",
+    "customer_id": "CUST00034",
+    "amount": 8788.76,
+    "currency": "INR",
+    "transaction_date": "2025-10-24",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN29888465",
+    "customer_id": "CUST00024",
+    "amount": 9555.59,
+    "currency": "EUR",
+    "transaction_date": "2025-11-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN81203743",
+    "customer_id": "CUST00079",
+    "amount": 6095.02,
+    "currency": "INR",
+    "transaction_date": "2025-08-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN35689505",
+    "customer_id": "CUST00021",
+    "amount": 5065.19,
+    "currency": "INR",
+    "transaction_date": "2025-08-13",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN00193169",
+    "customer_id": "CUST00062",
+    "amount": 5533.47,
+    "currency": "EUR",
+    "transaction_date": "2026-03-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34666701",
+    "customer_id": "CUST00044",
+    "amount": 635.73,
+    "currency": "USD",
+    "transaction_date": "2026-04-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN28437792",
+    "customer_id": "CUST00021",
+    "amount": 5848.33,
+    "currency": "AUD",
+    "transaction_date": "2025-07-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN12545880",
+    "customer_id": "CUST00091",
+    "amount": 5845.35,
+    "currency": "GBP",
+    "transaction_date": "2026-01-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN05689972",
+    "customer_id": "CUST00065",
+    "amount": 7913.38,
+    "currency": "INR",
+    "transaction_date": "2025-11-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN57040500",
+    "customer_id": "CUST00020",
+    "amount": 3989.51,
+    "currency": "GBP",
+    "transaction_date": "2025-06-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN68562277",
+    "customer_id": "CUST00059",
+    "amount": 1966.01,
+    "currency": "GBP",
+    "transaction_date": "2026-02-10",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN78891165",
+    "customer_id": "CUST00018",
+    "amount": 2062.22,
+    "currency": "EUR",
+    "transaction_date": "2026-05-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN09856254",
+    "customer_id": "CUST00008",
+    "amount": 7037.09,
+    "currency": "EUR",
+    "transaction_date": "2026-04-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN63561936",
+    "customer_id": "CUST00087",
+    "amount": 3592.85,
+    "currency": "EUR",
+    "transaction_date": "2025-07-06",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN10307726",
+    "customer_id": "CUST00056",
+    "amount": 6954.58,
+    "currency": "GBP",
+    "transaction_date": "2026-03-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN43758785",
+    "customer_id": "CUST00023",
+    "amount": 9684.83,
+    "currency": "INR",
+    "transaction_date": "2026-05-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN86216069",
+    "customer_id": "CUST00079",
+    "amount": 1464.53,
+    "currency": "USD",
+    "transaction_date": "2026-01-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN65770252",
+    "customer_id": "CUST00095",
+    "amount": 831.37,
+    "currency": "AUD",
+    "transaction_date": "2025-06-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN15164871",
+    "customer_id": "CUST00068",
+    "amount": 3931.88,
+    "currency": "INR",
+    "transaction_date": "2025-09-16",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN67541233",
+    "customer_id": "CUST00092",
+    "amount": 4727.49,
+    "currency": "INR",
+    "transaction_date": "2025-07-31",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN08356692",
+    "customer_id": "CUST00033",
+    "amount": 736.13,
+    "currency": "GBP",
+    "transaction_date": "2025-11-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN58369535",
+    "customer_id": "CUST00068",
+    "amount": 5350.61,
+    "currency": "EUR",
+    "transaction_date": "2025-09-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN70278511",
+    "customer_id": "CUST00031",
+    "amount": 7698.38,
+    "currency": "INR",
+    "transaction_date": "2025-11-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN91908697",
+    "customer_id": "CUST00013",
+    "amount": 5799.93,
+    "currency": "INR",
+    "transaction_date": "2025-10-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN30662543",
+    "customer_id": "CUST00057",
+    "amount": 4593.32,
+    "currency": "AUD",
+    "transaction_date": "2025-08-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN96538465",
+    "customer_id": "CUST00021",
+    "amount": 7390.93,
+    "currency": "USD",
+    "transaction_date": "2025-12-24",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN11297847",
+    "customer_id": "CUST00076",
+    "amount": 7643.58,
+    "currency": "INR",
+    "transaction_date": "2025-12-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN47890520",
+    "customer_id": "CUST00004",
+    "amount": 2241.3,
+    "currency": "EUR",
+    "transaction_date": "2025-07-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN19519389",
+    "customer_id": "CUST00068",
+    "amount": 2223.52,
+    "currency": "INR",
+    "transaction_date": "2025-05-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN80242112",
+    "customer_id": "CUST00033",
+    "amount": 6085.17,
+    "currency": "GBP",
+    "transaction_date": "2025-05-28",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN96893783",
+    "customer_id": "CUST00031",
+    "amount": 9733.39,
+    "currency": "AUD",
+    "transaction_date": "2025-07-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN41958043",
+    "customer_id": "CUST00067",
+    "amount": 6368.25,
+    "currency": "GBP",
+    "transaction_date": "2025-08-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN39351998",
+    "customer_id": "CUST00063",
+    "amount": 9216.65,
+    "currency": "GBP",
+    "transaction_date": "2025-11-20",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN14135375",
+    "customer_id": "CUST00033",
+    "amount": 6567.31,
+    "currency": "USD",
+    "transaction_date": "2025-06-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN89882781",
+    "customer_id": "CUST00081",
+    "amount": 3224.29,
+    "currency": "GBP",
+    "transaction_date": "2025-11-15",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN81647441",
+    "customer_id": "CUST00025",
+    "amount": 4704.65,
+    "currency": "GBP",
+    "transaction_date": "2026-05-25",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN94610688",
+    "customer_id": "CUST00071",
+    "amount": 2823.18,
+    "currency": "USD",
+    "transaction_date": "2025-08-12",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN17227356",
+    "customer_id": "CUST00024",
+    "amount": 745.71,
+    "currency": "USD",
+    "transaction_date": "2025-07-01",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN45130536",
+    "customer_id": "CUST00011",
+    "amount": 3752.02,
+    "currency": "AUD",
+    "transaction_date": "2026-05-13",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN22651753",
+    "customer_id": "CUST00084",
+    "amount": 1315.34,
+    "currency": "USD",
+    "transaction_date": "2025-07-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN16635183",
+    "customer_id": "CUST00087",
+    "amount": 256.42,
+    "currency": "EUR",
+    "transaction_date": "2025-08-07",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN77943803",
+    "customer_id": "CUST00080",
+    "amount": 9217.3,
+    "currency": "INR",
+    "transaction_date": "2026-02-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN75779685",
+    "customer_id": "CUST00055",
+    "amount": 3998.64,
+    "currency": "USD",
+    "transaction_date": "2026-01-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN50642158",
+    "customer_id": "CUST00078",
+    "amount": 4609.67,
+    "currency": "USD",
+    "transaction_date": "2025-08-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN31453108",
+    "customer_id": "CUST00022",
+    "amount": 3574.91,
+    "currency": "EUR",
+    "transaction_date": "2026-02-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN47557141",
+    "customer_id": "CUST00063",
+    "amount": 6338.31,
+    "currency": "GBP",
+    "transaction_date": "2026-02-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN17632424",
+    "customer_id": "CUST00080",
+    "amount": 590.63,
+    "currency": "EUR",
+    "transaction_date": "2025-12-31",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN56797620",
+    "customer_id": "CUST00053",
+    "amount": 7338.4,
+    "currency": "GBP",
+    "transaction_date": "2025-10-08",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN52110719",
+    "customer_id": "CUST00034",
+    "amount": 5222.49,
+    "currency": "EUR",
+    "transaction_date": "2025-07-26",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN90828939",
+    "customer_id": "CUST00087",
+    "amount": 6231.97,
+    "currency": "EUR",
+    "transaction_date": "2025-11-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN63260878",
+    "customer_id": "CUST00075",
+    "amount": 6148.89,
+    "currency": "GBP",
+    "transaction_date": "2026-03-26",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN05845834",
+    "customer_id": "CUST00074",
+    "amount": 4148.89,
+    "currency": "INR",
+    "transaction_date": "2026-05-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN13998454",
+    "customer_id": "CUST00050",
+    "amount": 7544.8,
+    "currency": "EUR",
+    "transaction_date": "2026-02-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN40564709",
+    "customer_id": "CUST00040",
+    "amount": 8056.46,
+    "currency": "EUR",
+    "transaction_date": "2026-01-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN82534340",
+    "customer_id": "CUST00020",
+    "amount": 8018.4,
+    "currency": "GBP",
+    "transaction_date": "2025-10-24",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN84903405",
+    "customer_id": "CUST00062",
+    "amount": 222.63,
+    "currency": "GBP",
+    "transaction_date": "2026-02-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN96530981",
+    "customer_id": "CUST00004",
+    "amount": 3082.72,
+    "currency": "GBP",
+    "transaction_date": "2026-04-15",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN03078870",
+    "customer_id": "CUST00033",
+    "amount": 7880.15,
+    "currency": "AUD",
+    "transaction_date": "2025-12-28",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN68026751",
+    "customer_id": "CUST00008",
+    "amount": 7395.32,
+    "currency": "EUR",
+    "transaction_date": "2026-01-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN36337698",
+    "customer_id": "CUST00064",
+    "amount": 4893.71,
+    "currency": "INR",
+    "transaction_date": "2026-05-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN18759244",
+    "customer_id": "CUST00020",
+    "amount": 9107.93,
+    "currency": "USD",
+    "transaction_date": "2026-04-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN06096869",
+    "customer_id": "CUST00015",
+    "amount": 5442.68,
+    "currency": "AUD",
+    "transaction_date": "2025-09-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN10474426",
+    "customer_id": "CUST00012",
+    "amount": 4576.58,
+    "currency": "INR",
+    "transaction_date": "2025-12-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN92485828",
+    "customer_id": "CUST00094",
+    "amount": 4991.15,
+    "currency": "EUR",
+    "transaction_date": "2026-02-03",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN95139786",
+    "customer_id": "CUST00018",
+    "amount": 9443.24,
+    "currency": "INR",
+    "transaction_date": "2025-12-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN23642581",
+    "customer_id": "CUST00033",
+    "amount": 8062.03,
+    "currency": "INR",
+    "transaction_date": "2026-01-21",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN52855628",
+    "customer_id": "CUST00021",
+    "amount": 2519.66,
+    "currency": "EUR",
+    "transaction_date": "2026-02-15",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN18115440",
+    "customer_id": "CUST00012",
+    "amount": 9716.17,
+    "currency": "AUD",
+    "transaction_date": "2025-07-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN81151891",
+    "customer_id": "CUST00086",
+    "amount": 3135.25,
+    "currency": "INR",
+    "transaction_date": "2025-10-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN64293969",
+    "customer_id": "CUST00090",
+    "amount": 360.69,
+    "currency": "INR",
+    "transaction_date": "2026-01-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN92956298",
+    "customer_id": "CUST00079",
+    "amount": 6278.92,
+    "currency": "USD",
+    "transaction_date": "2025-12-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN38671049",
+    "customer_id": "CUST00054",
+    "amount": 4022.11,
+    "currency": "GBP",
+    "transaction_date": "2025-09-26",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN90556232",
+    "customer_id": "CUST00072",
+    "amount": 1977.93,
+    "currency": "INR",
+    "transaction_date": "2025-07-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN36451608",
+    "customer_id": "CUST00088",
+    "amount": 3234.51,
+    "currency": "INR",
+    "transaction_date": "2025-07-31",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN42472158",
+    "customer_id": "CUST00089",
+    "amount": 2461.4,
+    "currency": "GBP",
+    "transaction_date": "2026-03-27",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN49363675",
+    "customer_id": "CUST00080",
+    "amount": 5146.2,
+    "currency": "USD",
+    "transaction_date": "2025-08-07",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN68892031",
+    "customer_id": "CUST00033",
+    "amount": 4681.07,
+    "currency": "AUD",
+    "transaction_date": "2026-05-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN77315253",
+    "customer_id": "CUST00076",
+    "amount": 8882.35,
+    "currency": "EUR",
+    "transaction_date": "2026-05-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN93999288",
+    "customer_id": "CUST00091",
+    "amount": 7240.76,
+    "currency": "USD",
+    "transaction_date": "2025-05-30",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN68744399",
+    "customer_id": "CUST00026",
+    "amount": 3030.23,
+    "currency": "USD",
+    "transaction_date": "2025-10-26",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN86282664",
+    "customer_id": "CUST00065",
+    "amount": 4806.51,
+    "currency": "INR",
+    "transaction_date": "2026-04-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN27365333",
+    "customer_id": "CUST00040",
+    "amount": 2373.87,
+    "currency": "GBP",
+    "transaction_date": "2025-11-19",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN31613264",
+    "customer_id": "CUST00043",
+    "amount": 7893.36,
+    "currency": "AUD",
+    "transaction_date": "2026-03-30",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN63756666",
+    "customer_id": "CUST00078",
+    "amount": 1161.1,
+    "currency": "AUD",
+    "transaction_date": "2026-02-15",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN34669467",
+    "customer_id": "CUST00019",
+    "amount": 9510.35,
+    "currency": "AUD",
+    "transaction_date": "2025-09-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN16862587",
+    "customer_id": "CUST00069",
+    "amount": 8495.65,
+    "currency": "GBP",
+    "transaction_date": "2026-03-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN46878493",
+    "customer_id": "CUST00065",
+    "amount": 7388.24,
+    "currency": "INR",
+    "transaction_date": "2025-07-06",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN93739580",
+    "customer_id": "CUST00066",
+    "amount": 7314.49,
+    "currency": "USD",
+    "transaction_date": "2025-11-10",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN39811972",
+    "customer_id": "CUST00085",
+    "amount": 4305.28,
+    "currency": "USD",
+    "transaction_date": "2025-05-29",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN16317843",
+    "customer_id": "CUST00005",
+    "amount": 1864.73,
+    "currency": "EUR",
+    "transaction_date": "2025-09-28",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN68305643",
+    "customer_id": "CUST00023",
+    "amount": 8470.38,
+    "currency": "USD",
+    "transaction_date": "2025-07-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN64744170",
+    "customer_id": "CUST00024",
+    "amount": 2928.28,
+    "currency": "AUD",
+    "transaction_date": "2025-11-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN76347685",
+    "customer_id": "CUST00030",
+    "amount": 7842.47,
+    "currency": "EUR",
+    "transaction_date": "2025-07-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN29016144",
+    "customer_id": "CUST00073",
+    "amount": 1630.19,
+    "currency": "GBP",
+    "transaction_date": "2025-11-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN63271329",
+    "customer_id": "CUST00009",
+    "amount": 5188.7,
+    "currency": "INR",
+    "transaction_date": "2026-03-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN75760656",
+    "customer_id": "CUST00062",
+    "amount": 1998.42,
+    "currency": "AUD",
+    "transaction_date": "2026-04-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN65162532",
+    "customer_id": "CUST00036",
+    "amount": 5631.55,
+    "currency": "USD",
+    "transaction_date": "2026-03-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN60019926",
+    "customer_id": "CUST00055",
+    "amount": 2477.22,
+    "currency": "USD",
+    "transaction_date": "2026-01-04",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN97053486",
+    "customer_id": "CUST00074",
+    "amount": 6040.43,
+    "currency": "EUR",
+    "transaction_date": "2025-11-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN22305791",
+    "customer_id": "CUST00046",
+    "amount": 8326.45,
+    "currency": "EUR",
+    "transaction_date": "2026-03-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN01567377",
+    "customer_id": "CUST00010",
+    "amount": 8048.78,
+    "currency": "GBP",
+    "transaction_date": "2025-09-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN33079682",
+    "customer_id": "CUST00061",
+    "amount": 1960.67,
+    "currency": "GBP",
+    "transaction_date": "2025-09-29",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN06684650",
+    "customer_id": "CUST00026",
+    "amount": 3730.88,
+    "currency": "EUR",
+    "transaction_date": "2025-09-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN36928144",
+    "customer_id": "CUST00044",
+    "amount": 6550.81,
+    "currency": "GBP",
+    "transaction_date": "2026-04-21",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN32108096",
+    "customer_id": "CUST00016",
+    "amount": 782.88,
+    "currency": "INR",
+    "transaction_date": "2026-03-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN89838606",
+    "customer_id": "CUST00020",
+    "amount": 2953.24,
+    "currency": "AUD",
+    "transaction_date": "2026-02-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN11610397",
+    "customer_id": "CUST00025",
+    "amount": 5910.87,
+    "currency": "EUR",
+    "transaction_date": "2025-07-30",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN77321196",
+    "customer_id": "CUST00097",
+    "amount": 6563.23,
+    "currency": "EUR",
+    "transaction_date": "2026-04-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN72636875",
+    "customer_id": "CUST00093",
+    "amount": 4968.59,
+    "currency": "EUR",
+    "transaction_date": "2026-02-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN83228571",
+    "customer_id": "CUST00063",
+    "amount": 2035.68,
+    "currency": "GBP",
+    "transaction_date": "2025-05-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN40366037",
+    "customer_id": "CUST00076",
+    "amount": 9970.77,
+    "currency": "EUR",
+    "transaction_date": "2025-10-22",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN85829958",
+    "customer_id": "CUST00044",
+    "amount": 3006.36,
+    "currency": "EUR",
+    "transaction_date": "2026-02-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN58213695",
+    "customer_id": "CUST00037",
+    "amount": 1016.59,
+    "currency": "USD",
+    "transaction_date": "2025-09-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34640366",
+    "customer_id": "CUST00078",
+    "amount": 9105.64,
+    "currency": "EUR",
+    "transaction_date": "2026-05-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN24221121",
+    "customer_id": "CUST00060",
+    "amount": 7140.48,
+    "currency": "GBP",
+    "transaction_date": "2026-03-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN72816578",
+    "customer_id": "CUST00093",
+    "amount": 3618.21,
+    "currency": "USD",
+    "transaction_date": "2025-09-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN97076350",
+    "customer_id": "CUST00025",
+    "amount": 1394.91,
+    "currency": "EUR",
+    "transaction_date": "2025-11-15",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN50694238",
+    "customer_id": "CUST00073",
+    "amount": 7250.6,
+    "currency": "GBP",
+    "transaction_date": "2025-06-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN82199439",
+    "customer_id": "CUST00086",
+    "amount": 8887.04,
+    "currency": "EUR",
+    "transaction_date": "2025-12-15",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN50669298",
+    "customer_id": "CUST00057",
+    "amount": 7475.43,
+    "currency": "AUD",
+    "transaction_date": "2025-08-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN58264115",
+    "customer_id": "CUST00033",
+    "amount": 3858.88,
+    "currency": "USD",
+    "transaction_date": "2025-07-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN50833731",
+    "customer_id": "CUST00092",
+    "amount": 8119.4,
+    "currency": "INR",
+    "transaction_date": "2025-07-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN32982235",
+    "customer_id": "CUST00057",
+    "amount": 3376.85,
+    "currency": "AUD",
+    "transaction_date": "2025-11-13",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN23229511",
+    "customer_id": "CUST00072",
+    "amount": 5025.16,
+    "currency": "GBP",
+    "transaction_date": "2025-11-28",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN75626633",
+    "customer_id": "CUST00005",
+    "amount": 8102.38,
+    "currency": "INR",
+    "transaction_date": "2026-04-21",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN29514528",
+    "customer_id": "CUST00046",
+    "amount": 1125.28,
+    "currency": "USD",
+    "transaction_date": "2026-04-06",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN75367457",
+    "customer_id": "CUST00006",
+    "amount": 784.55,
+    "currency": "AUD",
+    "transaction_date": "2025-11-19",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN26776727",
+    "customer_id": "CUST00076",
+    "amount": 7485.86,
+    "currency": "EUR",
+    "transaction_date": "2026-02-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN54157773",
+    "customer_id": "CUST00083",
+    "amount": 9764.3,
+    "currency": "EUR",
+    "transaction_date": "2025-06-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN46921312",
+    "customer_id": "CUST00068",
+    "amount": 6071.29,
+    "currency": "EUR",
+    "transaction_date": "2025-09-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN53083443",
+    "customer_id": "CUST00010",
+    "amount": 7637.77,
+    "currency": "AUD",
+    "transaction_date": "2025-11-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN71981376",
+    "customer_id": "CUST00037",
+    "amount": 9276.24,
+    "currency": "INR",
+    "transaction_date": "2026-05-13",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN03538965",
+    "customer_id": "CUST00022",
+    "amount": 8140.52,
+    "currency": "AUD",
+    "transaction_date": "2026-03-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN00118378",
+    "customer_id": "CUST00018",
+    "amount": 2276.8,
+    "currency": "USD",
+    "transaction_date": "2025-12-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN34784654",
+    "customer_id": "CUST00030",
+    "amount": 779.4,
+    "currency": "AUD",
+    "transaction_date": "2026-05-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN60675670",
+    "customer_id": "CUST00001",
+    "amount": 2890.87,
+    "currency": "AUD",
+    "transaction_date": "2025-09-08",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN86319371",
+    "customer_id": "CUST00034",
+    "amount": 4876.46,
+    "currency": "USD",
+    "transaction_date": "2025-08-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN03661716",
+    "customer_id": "CUST00040",
+    "amount": 2050.95,
+    "currency": "EUR",
+    "transaction_date": "2026-05-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN10853469",
+    "customer_id": "CUST00047",
+    "amount": 953.8,
+    "currency": "INR",
+    "transaction_date": "2025-09-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN88769447",
+    "customer_id": "CUST00039",
+    "amount": 4045.85,
+    "currency": "EUR",
+    "transaction_date": "2026-05-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN16340946",
+    "customer_id": "CUST00042",
+    "amount": 7212.93,
+    "currency": "INR",
+    "transaction_date": "2025-12-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN41300845",
+    "customer_id": "CUST00003",
+    "amount": 731.55,
+    "currency": "AUD",
+    "transaction_date": "2025-10-22",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN57969861",
+    "customer_id": "CUST00020",
+    "amount": 9623.36,
+    "currency": "GBP",
+    "transaction_date": "2026-03-29",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN54867267",
+    "customer_id": "CUST00075",
+    "amount": 4981.2,
+    "currency": "USD",
+    "transaction_date": "2026-04-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN04354784",
+    "customer_id": "CUST00003",
+    "amount": 933.24,
+    "currency": "EUR",
+    "transaction_date": "2025-10-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN51372659",
+    "customer_id": "CUST00037",
+    "amount": 738.84,
+    "currency": "GBP",
+    "transaction_date": "2025-10-31",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN86399510",
+    "customer_id": "CUST00019",
+    "amount": 8468.72,
+    "currency": "GBP",
+    "transaction_date": "2025-08-26",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN72783251",
+    "customer_id": "CUST00022",
+    "amount": 248.15,
+    "currency": "USD",
+    "transaction_date": "2025-12-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN52606975",
+    "customer_id": "CUST00065",
+    "amount": 3021.64,
+    "currency": "USD",
+    "transaction_date": "2025-06-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN73161735",
+    "customer_id": "CUST00037",
+    "amount": 2120.87,
+    "currency": "EUR",
+    "transaction_date": "2025-07-24",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN95384237",
+    "customer_id": "CUST00031",
+    "amount": 5233.57,
+    "currency": "AUD",
+    "transaction_date": "2025-08-20",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN77325427",
+    "customer_id": "CUST00045",
+    "amount": 1671.44,
+    "currency": "INR",
+    "transaction_date": "2025-06-27",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN43849919",
+    "customer_id": "CUST00086",
+    "amount": 5055.16,
+    "currency": "USD",
+    "transaction_date": "2025-07-17",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN49287576",
+    "customer_id": "CUST00002",
+    "amount": 2157.26,
+    "currency": "GBP",
+    "transaction_date": "2025-07-25",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN99307575",
+    "customer_id": "CUST00057",
+    "amount": 3139.34,
+    "currency": "EUR",
+    "transaction_date": "2026-01-17",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN54739813",
+    "customer_id": "CUST00010",
+    "amount": 1281.82,
+    "currency": "INR",
+    "transaction_date": "2025-09-12",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN89022994",
+    "customer_id": "CUST00025",
+    "amount": 564.05,
+    "currency": "EUR",
+    "transaction_date": "2025-07-04",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN85337205",
+    "customer_id": "CUST00034",
+    "amount": 7048.05,
+    "currency": "EUR",
+    "transaction_date": "2025-09-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN86789279",
+    "customer_id": "CUST00045",
+    "amount": 5771.09,
+    "currency": "EUR",
+    "transaction_date": "2026-04-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN23662745",
+    "customer_id": "CUST00067",
+    "amount": 7711.61,
+    "currency": "INR",
+    "transaction_date": "2025-06-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN97748560",
+    "customer_id": "CUST00001",
+    "amount": 2183.32,
+    "currency": "INR",
+    "transaction_date": "2025-08-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN40527708",
+    "customer_id": "CUST00034",
+    "amount": 9040.19,
+    "currency": "AUD",
+    "transaction_date": "2025-09-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN61706593",
+    "customer_id": "CUST00069",
+    "amount": 9504.17,
+    "currency": "INR",
+    "transaction_date": "2025-12-31",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN60510081",
+    "customer_id": "CUST00091",
+    "amount": 7683.34,
+    "currency": "GBP",
+    "transaction_date": "2025-08-17",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN72890656",
+    "customer_id": "CUST00020",
+    "amount": 5690.74,
+    "currency": "GBP",
+    "transaction_date": "2025-07-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN68888787",
+    "customer_id": "CUST00001",
+    "amount": 1611.01,
+    "currency": "USD",
+    "transaction_date": "2025-07-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN26307480",
+    "customer_id": "CUST00076",
+    "amount": 4829.25,
+    "currency": "AUD",
+    "transaction_date": "2025-12-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN23367396",
+    "customer_id": "CUST00079",
+    "amount": 9861.18,
+    "currency": "EUR",
+    "transaction_date": "2025-10-27",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN58024188",
+    "customer_id": "CUST00078",
+    "amount": 6348.19,
+    "currency": "INR",
+    "transaction_date": "2025-08-12",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN24591289",
+    "customer_id": "CUST00028",
+    "amount": 7637.21,
+    "currency": "INR",
+    "transaction_date": "2026-03-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN63665023",
+    "customer_id": "CUST00083",
+    "amount": 5960.57,
+    "currency": "GBP",
+    "transaction_date": "2025-08-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN26029261",
+    "customer_id": "CUST00011",
+    "amount": 6946.39,
+    "currency": "AUD",
+    "transaction_date": "2025-10-05",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN91937474",
+    "customer_id": "CUST00041",
+    "amount": 9897.98,
+    "currency": "EUR",
+    "transaction_date": "2025-11-12",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN86614820",
+    "customer_id": "CUST00060",
+    "amount": 9255.07,
+    "currency": "GBP",
+    "transaction_date": "2026-03-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN29848179",
+    "customer_id": "CUST00021",
+    "amount": 9950.65,
+    "currency": "GBP",
+    "transaction_date": "2025-09-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN98596551",
+    "customer_id": "CUST00018",
+    "amount": 3025.2,
+    "currency": "AUD",
+    "transaction_date": "2025-12-03",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN25970145",
+    "customer_id": "CUST00050",
+    "amount": 878.94,
+    "currency": "GBP",
+    "transaction_date": "2026-01-29",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN51348831",
+    "customer_id": "CUST00070",
+    "amount": 8227.25,
+    "currency": "EUR",
+    "transaction_date": "2025-09-12",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN09551127",
+    "customer_id": "CUST00052",
+    "amount": 4294.09,
+    "currency": "USD",
+    "transaction_date": "2026-05-17",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN35622495",
+    "customer_id": "CUST00018",
+    "amount": 2208.93,
+    "currency": "AUD",
+    "transaction_date": "2026-01-30",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN86091701",
+    "customer_id": "CUST00078",
+    "amount": 8343.67,
+    "currency": "USD",
+    "transaction_date": "2025-09-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN52434664",
+    "customer_id": "CUST00095",
+    "amount": 5236.54,
+    "currency": "EUR",
+    "transaction_date": "2026-05-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN70090982",
+    "customer_id": "CUST00030",
+    "amount": 9614.92,
+    "currency": "EUR",
+    "transaction_date": "2025-06-13",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN03058776",
+    "customer_id": "CUST00028",
+    "amount": 4516.92,
+    "currency": "GBP",
+    "transaction_date": "2025-10-05",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN45135064",
+    "customer_id": "CUST00079",
+    "amount": 4643.94,
+    "currency": "EUR",
+    "transaction_date": "2025-09-12",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN91952917",
+    "customer_id": "CUST00075",
+    "amount": 4738.45,
+    "currency": "USD",
+    "transaction_date": "2026-01-25",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN52742195",
+    "customer_id": "CUST00010",
+    "amount": 8119.71,
+    "currency": "USD",
+    "transaction_date": "2025-10-12",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN89741640",
+    "customer_id": "CUST00097",
+    "amount": 1483.77,
+    "currency": "INR",
+    "transaction_date": "2025-07-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN19713957",
+    "customer_id": "CUST00035",
+    "amount": 317.49,
+    "currency": "USD",
+    "transaction_date": "2026-04-14",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN82264847",
+    "customer_id": "CUST00041",
+    "amount": 2099.35,
+    "currency": "EUR",
+    "transaction_date": "2026-04-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN93451206",
+    "customer_id": "CUST00026",
+    "amount": 5807.33,
+    "currency": "GBP",
+    "transaction_date": "2025-08-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN15694384",
+    "customer_id": "CUST00079",
+    "amount": 576.01,
+    "currency": "USD",
+    "transaction_date": "2025-09-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN81311903",
+    "customer_id": "CUST00094",
+    "amount": 8195.89,
+    "currency": "INR",
+    "transaction_date": "2026-04-25",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN11599081",
+    "customer_id": "CUST00006",
+    "amount": 8590.08,
+    "currency": "AUD",
+    "transaction_date": "2026-01-01",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN00167582",
+    "customer_id": "CUST00047",
+    "amount": 6239.99,
+    "currency": "EUR",
+    "transaction_date": "2026-02-06",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN56381845",
+    "customer_id": "CUST00026",
+    "amount": 9973.93,
+    "currency": "USD",
+    "transaction_date": "2025-11-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN56077534",
+    "customer_id": "CUST00096",
+    "amount": 2113.73,
+    "currency": "EUR",
+    "transaction_date": "2025-08-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN44992040",
+    "customer_id": "CUST00052",
+    "amount": 418.43,
+    "currency": "INR",
+    "transaction_date": "2025-11-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN45562853",
+    "customer_id": "CUST00097",
+    "amount": 3913.27,
+    "currency": "USD",
+    "transaction_date": "2025-07-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN56577599",
+    "customer_id": "CUST00010",
+    "amount": 7921.4,
+    "currency": "INR",
+    "transaction_date": "2025-11-10",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN86913694",
+    "customer_id": "CUST00073",
+    "amount": 3657.29,
+    "currency": "USD",
+    "transaction_date": "2025-11-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN08259560",
+    "customer_id": "CUST00066",
+    "amount": 7690.33,
+    "currency": "AUD",
+    "transaction_date": "2026-04-25",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN35838884",
+    "customer_id": "CUST00052",
+    "amount": 296.96,
+    "currency": "EUR",
+    "transaction_date": "2025-07-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN63689830",
+    "customer_id": "CUST00004",
+    "amount": 1880.2,
+    "currency": "EUR",
+    "transaction_date": "2026-05-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN98661051",
+    "customer_id": "CUST00071",
+    "amount": 255.9,
+    "currency": "EUR",
+    "transaction_date": "2026-02-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN82403024",
+    "customer_id": "CUST00097",
+    "amount": 4019.11,
+    "currency": "USD",
+    "transaction_date": "2026-04-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN99298093",
+    "customer_id": "CUST00080",
+    "amount": 5893.24,
+    "currency": "INR",
+    "transaction_date": "2025-11-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN83223019",
+    "customer_id": "CUST00001",
+    "amount": 3271.74,
+    "currency": "GBP",
+    "transaction_date": "2026-02-04",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN36423175",
+    "customer_id": "CUST00072",
+    "amount": 2689.48,
+    "currency": "INR",
+    "transaction_date": "2025-11-26",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN54104886",
+    "customer_id": "CUST00030",
+    "amount": 5309.02,
+    "currency": "EUR",
+    "transaction_date": "2026-04-07",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN31402377",
+    "customer_id": "CUST00033",
+    "amount": 2553.26,
+    "currency": "USD",
+    "transaction_date": "2025-12-10",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN69555180",
+    "customer_id": "CUST00069",
+    "amount": 7681.84,
+    "currency": "USD",
+    "transaction_date": "2026-04-20",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN10091955",
+    "customer_id": "CUST00081",
+    "amount": 3737.9,
+    "currency": "EUR",
+    "transaction_date": "2025-09-22",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN94367516",
+    "customer_id": "CUST00021",
+    "amount": 7516.54,
+    "currency": "GBP",
+    "transaction_date": "2025-12-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN86616304",
+    "customer_id": "CUST00019",
+    "amount": 9922.72,
+    "currency": "INR",
+    "transaction_date": "2025-12-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN56059018",
+    "customer_id": "CUST00066",
+    "amount": 4294.91,
+    "currency": "USD",
+    "transaction_date": "2025-12-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN96200604",
+    "customer_id": "CUST00049",
+    "amount": 6412.75,
+    "currency": "EUR",
+    "transaction_date": "2025-06-23",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN49037072",
+    "customer_id": "CUST00044",
+    "amount": 8429.79,
+    "currency": "AUD",
+    "transaction_date": "2025-11-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN46809344",
+    "customer_id": "CUST00039",
+    "amount": 1849.5,
+    "currency": "USD",
+    "transaction_date": "2025-08-17",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN71463866",
+    "customer_id": "CUST00057",
+    "amount": 7236.0,
+    "currency": "USD",
+    "transaction_date": "2025-08-11",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN97543689",
+    "customer_id": "CUST00024",
+    "amount": 9360.66,
+    "currency": "INR",
+    "transaction_date": "2025-06-25",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN15108570",
+    "customer_id": "CUST00030",
+    "amount": 9522.44,
+    "currency": "INR",
+    "transaction_date": "2026-02-10",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN40474580",
+    "customer_id": "CUST00020",
+    "amount": 4198.31,
+    "currency": "GBP",
+    "transaction_date": "2025-07-12",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN01113603",
+    "customer_id": "CUST00012",
+    "amount": 4094.72,
+    "currency": "INR",
+    "transaction_date": "2026-03-18",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN04560856",
+    "customer_id": "CUST00013",
+    "amount": 2515.88,
+    "currency": "GBP",
+    "transaction_date": "2026-01-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN22736528",
+    "customer_id": "CUST00069",
+    "amount": 1184.3,
+    "currency": "EUR",
+    "transaction_date": "2025-10-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN07365919",
+    "customer_id": "CUST00054",
+    "amount": 9727.49,
+    "currency": "GBP",
+    "transaction_date": "2025-06-06",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN43443360",
+    "customer_id": "CUST00012",
+    "amount": 9572.83,
+    "currency": "USD",
+    "transaction_date": "2025-09-26",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN92747210",
+    "customer_id": "CUST00051",
+    "amount": 3843.35,
+    "currency": "INR",
+    "transaction_date": "2025-06-12",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN68049648",
+    "customer_id": "CUST00093",
+    "amount": 869.86,
+    "currency": "AUD",
+    "transaction_date": "2025-07-28",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN65425114",
+    "customer_id": "CUST00013",
+    "amount": 7622.01,
+    "currency": "INR",
+    "transaction_date": "2026-01-11",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN32398394",
+    "customer_id": "CUST00094",
+    "amount": 2617.58,
+    "currency": "INR",
+    "transaction_date": "2026-05-18",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN50911857",
+    "customer_id": "CUST00023",
+    "amount": 9270.24,
+    "currency": "GBP",
+    "transaction_date": "2025-07-02",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN94764463",
+    "customer_id": "CUST00082",
+    "amount": 7399.64,
+    "currency": "USD",
+    "transaction_date": "2026-01-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN54922748",
+    "customer_id": "CUST00044",
+    "amount": 6082.42,
+    "currency": "INR",
+    "transaction_date": "2026-05-08",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN65323769",
+    "customer_id": "CUST00085",
+    "amount": 4106.35,
+    "currency": "GBP",
+    "transaction_date": "2025-09-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN20025701",
+    "customer_id": "CUST00038",
+    "amount": 2282.68,
+    "currency": "GBP",
+    "transaction_date": "2026-05-13",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN03593854",
+    "customer_id": "CUST00080",
+    "amount": 4417.98,
+    "currency": "INR",
+    "transaction_date": "2026-03-10",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN11601220",
+    "customer_id": "CUST00095",
+    "amount": 6310.05,
+    "currency": "USD",
+    "transaction_date": "2025-07-31",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN42195313",
+    "customer_id": "CUST00059",
+    "amount": 994.86,
+    "currency": "USD",
+    "transaction_date": "2025-06-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN90428423",
+    "customer_id": "CUST00068",
+    "amount": 3600.8,
+    "currency": "AUD",
+    "transaction_date": "2026-03-10",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN23586977",
+    "customer_id": "CUST00069",
+    "amount": 4738.11,
+    "currency": "GBP",
+    "transaction_date": "2025-07-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN61071308",
+    "customer_id": "CUST00081",
+    "amount": 8653.95,
+    "currency": "AUD",
+    "transaction_date": "2025-09-17",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN28288296",
+    "customer_id": "CUST00008",
+    "amount": 4996.84,
+    "currency": "EUR",
+    "transaction_date": "2025-08-21",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN34349889",
+    "customer_id": "CUST00018",
+    "amount": 843.39,
+    "currency": "EUR",
+    "transaction_date": "2026-04-23",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN53979752",
+    "customer_id": "CUST00063",
+    "amount": 665.68,
+    "currency": "INR",
+    "transaction_date": "2026-01-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN19894226",
+    "customer_id": "CUST00077",
+    "amount": 1732.99,
+    "currency": "GBP",
+    "transaction_date": "2025-08-03",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN48735059",
+    "customer_id": "CUST00081",
+    "amount": 9184.05,
+    "currency": "USD",
+    "transaction_date": "2026-03-16",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34855398",
+    "customer_id": "CUST00012",
+    "amount": 7523.07,
+    "currency": "GBP",
+    "transaction_date": "2025-08-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN85347531",
+    "customer_id": "CUST00099",
+    "amount": 5501.29,
+    "currency": "AUD",
+    "transaction_date": "2025-12-28",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN29021104",
+    "customer_id": "CUST00021",
+    "amount": 451.55,
+    "currency": "GBP",
+    "transaction_date": "2026-05-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN82417361",
+    "customer_id": "CUST00084",
+    "amount": 6927.48,
+    "currency": "GBP",
+    "transaction_date": "2025-07-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN68010867",
+    "customer_id": "CUST00058",
+    "amount": 4059.65,
+    "currency": "USD",
+    "transaction_date": "2025-10-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN52853453",
+    "customer_id": "CUST00076",
+    "amount": 8348.51,
+    "currency": "USD",
+    "transaction_date": "2026-05-18",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN70211101",
+    "customer_id": "CUST00060",
+    "amount": 4360.23,
+    "currency": "EUR",
+    "transaction_date": "2026-02-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN55158651",
+    "customer_id": "CUST00082",
+    "amount": 432.9,
+    "currency": "USD",
+    "transaction_date": "2026-03-23",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN43684217",
+    "customer_id": "CUST00090",
+    "amount": 5203.11,
+    "currency": "INR",
+    "transaction_date": "2025-11-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN13653975",
+    "customer_id": "CUST00037",
+    "amount": 359.76,
+    "currency": "INR",
+    "transaction_date": "2026-05-06",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN75706337",
+    "customer_id": "CUST00031",
+    "amount": 3854.53,
+    "currency": "USD",
+    "transaction_date": "2025-11-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN37115953",
+    "customer_id": "CUST00001",
+    "amount": 2954.58,
+    "currency": "GBP",
+    "transaction_date": "2026-03-30",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN78270846",
+    "customer_id": "CUST00011",
+    "amount": 9413.66,
+    "currency": "AUD",
+    "transaction_date": "2025-12-31",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN41943056",
+    "customer_id": "CUST00061",
+    "amount": 5507.38,
+    "currency": "AUD",
+    "transaction_date": "2025-07-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN44872292",
+    "customer_id": "CUST00053",
+    "amount": 3327.13,
+    "currency": "INR",
+    "transaction_date": "2025-07-10",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN12726915",
+    "customer_id": "CUST00003",
+    "amount": 7919.93,
+    "currency": "USD",
+    "transaction_date": "2025-08-02",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN35989043",
+    "customer_id": "CUST00076",
+    "amount": 382.76,
+    "currency": "EUR",
+    "transaction_date": "2026-03-11",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN76419628",
+    "customer_id": "CUST00068",
+    "amount": 7772.23,
+    "currency": "EUR",
+    "transaction_date": "2025-06-05",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN47070172",
+    "customer_id": "CUST00073",
+    "amount": 3757.26,
+    "currency": "INR",
+    "transaction_date": "2025-06-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN79085919",
+    "customer_id": "CUST00002",
+    "amount": 9827.57,
+    "currency": "AUD",
+    "transaction_date": "2026-03-20",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN18279427",
+    "customer_id": "CUST00078",
+    "amount": 864.17,
+    "currency": "EUR",
+    "transaction_date": "2025-07-26",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN57531837",
+    "customer_id": "CUST00009",
+    "amount": 5655.87,
+    "currency": "USD",
+    "transaction_date": "2025-09-05",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN26890595",
+    "customer_id": "CUST00006",
+    "amount": 2793.74,
+    "currency": "USD",
+    "transaction_date": "2026-01-14",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN75495962",
+    "customer_id": "CUST00100",
+    "amount": 6077.69,
+    "currency": "USD",
+    "transaction_date": "2026-05-21",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN08697570",
+    "customer_id": "CUST00010",
+    "amount": 9443.04,
+    "currency": "EUR",
+    "transaction_date": "2025-09-16",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN84684275",
+    "customer_id": "CUST00003",
+    "amount": 5485.46,
+    "currency": "AUD",
+    "transaction_date": "2025-06-24",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN83684565",
+    "customer_id": "CUST00085",
+    "amount": 6331.36,
+    "currency": "USD",
+    "transaction_date": "2025-12-09",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN21611377",
+    "customer_id": "CUST00042",
+    "amount": 8623.78,
+    "currency": "INR",
+    "transaction_date": "2026-05-13",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN12128217",
+    "customer_id": "CUST00091",
+    "amount": 2497.1,
+    "currency": "EUR",
+    "transaction_date": "2026-02-27",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN14119622",
+    "customer_id": "CUST00091",
+    "amount": 7882.37,
+    "currency": "INR",
+    "transaction_date": "2026-01-16",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN79361552",
+    "customer_id": "CUST00084",
+    "amount": 3589.71,
+    "currency": "AUD",
+    "transaction_date": "2025-12-22",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN16663764",
+    "customer_id": "CUST00077",
+    "amount": 8978.34,
+    "currency": "INR",
+    "transaction_date": "2026-03-06",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN73723387",
+    "customer_id": "CUST00059",
+    "amount": 8203.72,
+    "currency": "EUR",
+    "transaction_date": "2025-06-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN43711412",
+    "customer_id": "CUST00035",
+    "amount": 8623.93,
+    "currency": "GBP",
+    "transaction_date": "2025-07-10",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN54228459",
+    "customer_id": "CUST00024",
+    "amount": 3598.08,
+    "currency": "GBP",
+    "transaction_date": "2025-09-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN39336041",
+    "customer_id": "CUST00092",
+    "amount": 5399.82,
+    "currency": "INR",
+    "transaction_date": "2025-10-14",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN27015171",
+    "customer_id": "CUST00048",
+    "amount": 5751.77,
+    "currency": "GBP",
+    "transaction_date": "2025-08-15",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN13654520",
+    "customer_id": "CUST00027",
+    "amount": 5937.06,
+    "currency": "INR",
+    "transaction_date": "2026-05-23",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN03945781",
+    "customer_id": "CUST00094",
+    "amount": 5963.8,
+    "currency": "EUR",
+    "transaction_date": "2026-05-04",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN44144357",
+    "customer_id": "CUST00066",
+    "amount": 9062.61,
+    "currency": "GBP",
+    "transaction_date": "2025-07-11",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN51872471",
+    "customer_id": "CUST00030",
+    "amount": 3863.54,
+    "currency": "EUR",
+    "transaction_date": "2026-02-09",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN67991078",
+    "customer_id": "CUST00082",
+    "amount": 7954.25,
+    "currency": "INR",
+    "transaction_date": "2025-07-01",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN28840932",
+    "customer_id": "CUST00099",
+    "amount": 1354.14,
+    "currency": "AUD",
+    "transaction_date": "2025-11-04",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN16874648",
+    "customer_id": "CUST00018",
+    "amount": 5425.17,
+    "currency": "GBP",
+    "transaction_date": "2025-05-26",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN59907136",
+    "customer_id": "CUST00005",
+    "amount": 4976.54,
+    "currency": "AUD",
+    "transaction_date": "2025-11-28",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN82028495",
+    "customer_id": "CUST00008",
+    "amount": 1225.84,
+    "currency": "INR",
+    "transaction_date": "2025-12-30",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN83362241",
+    "customer_id": "CUST00062",
+    "amount": 7828.4,
+    "currency": "AUD",
+    "transaction_date": "2025-09-29",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN57686468",
+    "customer_id": "CUST00015",
+    "amount": 9918.55,
+    "currency": "USD",
+    "transaction_date": "2025-07-24",
+    "payment_status": "PENDING"
+  },
+  {
+    "record_id": "FIN53067913",
+    "customer_id": "CUST00036",
+    "amount": 1598.99,
+    "currency": "AUD",
+    "transaction_date": "2026-03-27",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN21723700",
+    "customer_id": "CUST00057",
+    "amount": 567.62,
+    "currency": "GBP",
+    "transaction_date": "2025-10-13",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN44485073",
+    "customer_id": "CUST00093",
+    "amount": 2924.68,
+    "currency": "INR",
+    "transaction_date": "2026-05-07",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN72402691",
+    "customer_id": "CUST00089",
+    "amount": 3878.18,
+    "currency": "AUD",
+    "transaction_date": "2025-12-22",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN66596839",
+    "customer_id": "CUST00062",
+    "amount": 1684.95,
+    "currency": "INR",
+    "transaction_date": "2025-11-30",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN34656732",
+    "customer_id": "CUST00094",
+    "amount": 4239.5,
+    "currency": "EUR",
+    "transaction_date": "2026-01-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN44869043",
+    "customer_id": "CUST00060",
+    "amount": 3884.7,
+    "currency": "EUR",
+    "transaction_date": "2025-07-17",
+    "payment_status": "CANCELLED"
+  },
+  {
+    "record_id": "FIN80389513",
+    "customer_id": "CUST00032",
+    "amount": 1465.68,
+    "currency": "USD",
+    "transaction_date": "2026-03-09",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN92800502",
+    "customer_id": "CUST00044",
+    "amount": 7809.27,
+    "currency": "INR",
+    "transaction_date": "2025-09-03",
+    "payment_status": "DELIVERED"
+  },
+  {
+    "record_id": "FIN55325079",
+    "customer_id": "CUST00088",
+    "amount": 1395.25,
+    "currency": "USD",
+    "transaction_date": "2025-09-08",
+    "payment_status": "OPEN"
+  },
+  {
+    "record_id": "FIN00759733",
+    "customer_id": "CUST00094",
+    "amount": 6832.46,
+    "currency": "USD",
+    "transaction_date": "2026-02-15",
+    "payment_status": "PENDING"
+  }
+]
