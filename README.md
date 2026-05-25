@@ -1,7 +1,7 @@
 # sap-pyspark-ingestion
 Learning project to create a reusable pyspark framework to ingest json/tsv/csv files from adls blob storage and automating it to push to Databricks.  
 
-sap-pyspark-ingestion/ 
+sap-pyspark-ingestion/
 ├── .github/workflows/ 
   │ 
   └── deploy_to_databricks.yml ← auto-deploys on every git push 
